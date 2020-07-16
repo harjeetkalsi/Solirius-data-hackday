@@ -18,5 +18,8 @@ setup(
         'seaborn~=0.9.0',
         'jupyter_contrib_nbextensions~=0.5.1',
         'matplotlib-venn',
+        'geopandas',
+        'descartes',
+        'bokeh'
     ]
 )
