@@ -1,0 +1,3484 @@
+Cause of death,Sex,Area of usual residence name,Deaths
+All causes,Persons,Hartlepool,345
+All causes,Persons,Middlesbrough,582
+All causes,Persons,Redcar and Cleveland,476
+All causes,Persons,Stockton-on-Tees,568
+All causes,Persons,Darlington,370
+All causes,Persons,Halton,424
+All causes,Persons,Warrington,712
+All causes,Persons,Blackburn with Darwen,426
+All causes,Persons,Blackpool,572
+All causes,Persons,"Kingston upon Hull, City of",765
+All causes,Persons,East Riding of Yorkshire,"1,259"
+All causes,Persons,North East Lincolnshire,422
+All causes,Persons,North Lincolnshire,554
+All causes,Persons,York,641
+All causes,Persons,Derby,831
+All causes,Persons,Leicester,909
+All causes,Persons,Rutland,124
+All causes,Persons,Nottingham,747
+All causes,Persons,"Herefordshire, County of",635
+All causes,Persons,Telford and Wrekin,499
+All causes,Persons,Stoke-on-Trent,811
+All causes,Persons,Bath and North East Somerset,521
+All causes,Persons,"Bristol, City of","1,037"
+All causes,Persons,North Somerset,707
+All causes,Persons,South Gloucestershire,767
+All causes,Persons,Plymouth,680
+All causes,Persons,Torbay,488
+All causes,Persons,Swindon,646
+All causes,Persons,Peterborough,468
+All causes,Persons,Luton,570
+All causes,Persons,Southend-on-Sea,657
+All causes,Persons,Thurrock,453
+All causes,Persons,Medway,669
+All causes,Persons,Bracknell Forest,247
+All causes,Persons,West Berkshire,422
+All causes,Persons,Reading,456
+All causes,Persons,Slough,333
+All causes,Persons,Windsor and Maidenhead,468
+All causes,Persons,Wokingham,438
+All causes,Persons,Milton Keynes,662
+All causes,Persons,Brighton and Hove,643
+All causes,Persons,Portsmouth,509
+All causes,Persons,Southampton,592
+All causes,Persons,Isle of Wight,452
+All causes,Persons,County Durham,"2,055"
+All causes,Persons,Cheshire East,"1,499"
+All causes,Persons,Cheshire West and Chester,"1,199"
+All causes,Persons,Shropshire,"1,119"
+All causes,Persons,Cornwall,"1,676"
+All causes,Persons,Isles of Scilly,4
+All causes,Persons,Wiltshire,"1,585"
+All causes,Persons,Bedford,515
+All causes,Persons,Central Bedfordshire,843
+All causes,Persons,Northumberland,"1,127"
+All causes,Persons,"Bournemouth, Christchurch and Poole","1,250"
+All causes,Persons,Dorset,"1,388"
+All causes,Persons,Buckinghamshire,"1,477"
+All causes,Persons,Cambridge,266
+All causes,Persons,East Cambridgeshire,255
+All causes,Persons,Fenland,369
+All causes,Persons,Huntingdonshire,479
+All causes,Persons,South Cambridgeshire,353
+All causes,Persons,Allerdale,354
+All causes,Persons,Barrow-in-Furness,270
+All causes,Persons,Carlisle,415
+All causes,Persons,Copeland,250
+All causes,Persons,Eden,153
+All causes,Persons,South Lakeland,511
+All causes,Persons,Amber Valley,399
+All causes,Persons,Bolsover,245
+All causes,Persons,Chesterfield,354
+All causes,Persons,Derbyshire Dales,263
+All causes,Persons,Erewash,381
+All causes,Persons,High Peak,310
+All causes,Persons,North East Derbyshire,397
+All causes,Persons,South Derbyshire,316
+All causes,Persons,East Devon,473
+All causes,Persons,Exeter,285
+All causes,Persons,Mid Devon,206
+All causes,Persons,North Devon,301
+All causes,Persons,South Hams,249
+All causes,Persons,Teignbridge,416
+All causes,Persons,Torridge,195
+All causes,Persons,West Devon,189
+All causes,Persons,Eastbourne,348
+All causes,Persons,Hastings,252
+All causes,Persons,Lewes,405
+All causes,Persons,Rother,369
+All causes,Persons,Wealden,516
+All causes,Persons,Basildon,601
+All causes,Persons,Braintree,479
+All causes,Persons,Brentwood,280
+All causes,Persons,Castle Point,330
+All causes,Persons,Chelmsford,545
+All causes,Persons,Colchester,446
+All causes,Persons,Epping Forest,531
+All causes,Persons,Harlow,283
+All causes,Persons,Maldon,219
+All causes,Persons,Rochford,300
+All causes,Persons,Tendring,728
+All causes,Persons,Uttlesford,256
+All causes,Persons,Cheltenham,383
+All causes,Persons,Cotswold,279
+All causes,Persons,Forest of Dean,292
+All causes,Persons,Gloucester,444
+All causes,Persons,Stroud,376
+All causes,Persons,Tewkesbury,303
+All causes,Persons,Basingstoke and Deane,448
+All causes,Persons,East Hampshire,369
+All causes,Persons,Eastleigh,367
+All causes,Persons,Fareham,398
+All causes,Persons,Gosport,282
+All causes,Persons,Hart,220
+All causes,Persons,Havant,450
+All causes,Persons,New Forest,709
+All causes,Persons,Rushmoor,241
+All causes,Persons,Test Valley,411
+All causes,Persons,Winchester,369
+All causes,Persons,Broxbourne,308
+All causes,Persons,Dacorum,479
+All causes,Persons,Hertsmere,450
+All causes,Persons,North Hertfordshire,422
+All causes,Persons,Three Rivers,285
+All causes,Persons,Watford,311
+All causes,Persons,Ashford,368
+All causes,Persons,Canterbury,485
+All causes,Persons,Dartford,309
+All causes,Persons,Dover,428
+All causes,Persons,Gravesham,345
+All causes,Persons,Maidstone,487
+All causes,Persons,Sevenoaks,360
+All causes,Persons,Folkestone and Hythe,388
+All causes,Persons,Swale,433
+All causes,Persons,Thanet,574
+All causes,Persons,Tonbridge and Malling,311
+All causes,Persons,Tunbridge Wells,326
+All causes,Persons,Burnley,313
+All causes,Persons,Chorley,383
+All causes,Persons,Fylde,335
+All causes,Persons,Hyndburn,253
+All causes,Persons,Lancaster,449
+All causes,Persons,Pendle,283
+All causes,Persons,Preston,439
+All causes,Persons,Ribble Valley,179
+All causes,Persons,Rossendale,236
+All causes,Persons,South Ribble,335
+All causes,Persons,West Lancashire,449
+All causes,Persons,Wyre,454
+All causes,Persons,Blaby,273
+All causes,Persons,Charnwood,456
+All causes,Persons,Harborough,319
+All causes,Persons,Hinckley and Bosworth,348
+All causes,Persons,Melton,163
+All causes,Persons,North West Leicestershire,297
+All causes,Persons,Oadby and Wigston,209
+All causes,Persons,Boston,221
+All causes,Persons,East Lindsey,524
+All causes,Persons,Lincoln,249
+All causes,Persons,North Kesteven,349
+All causes,Persons,South Holland,306
+All causes,Persons,South Kesteven,414
+All causes,Persons,West Lindsey,282
+All causes,Persons,Breckland,487
+All causes,Persons,Broadland,418
+All causes,Persons,Great Yarmouth,324
+All causes,Persons,King's Lynn and West Norfolk,601
+All causes,Persons,North Norfolk,409
+All causes,Persons,Norwich,302
+All causes,Persons,South Norfolk,383
+All causes,Persons,Corby,200
+All causes,Persons,Daventry,245
+All causes,Persons,East Northamptonshire,303
+All causes,Persons,Kettering,337
+All causes,Persons,Northampton,699
+All causes,Persons,South Northamptonshire,228
+All causes,Persons,Wellingborough,263
+All causes,Persons,Craven,252
+All causes,Persons,Hambleton,314
+All causes,Persons,Harrogate,614
+All causes,Persons,Richmondshire,162
+All causes,Persons,Ryedale,180
+All causes,Persons,Scarborough,426
+All causes,Persons,Selby,246
+All causes,Persons,Ashfield,427
+All causes,Persons,Bassetlaw,346
+All causes,Persons,Broxtowe,350
+All causes,Persons,Gedling,381
+All causes,Persons,Mansfield,325
+All causes,Persons,Newark and Sherwood,372
+All causes,Persons,Rushcliffe,319
+All causes,Persons,Cherwell,452
+All causes,Persons,Oxford,323
+All causes,Persons,South Oxfordshire,397
+All causes,Persons,Vale of White Horse,393
+All causes,Persons,West Oxfordshire,376
+All causes,Persons,Mendip,304
+All causes,Persons,Sedgemoor,430
+All causes,Persons,South Somerset,484
+All causes,Persons,Cannock Chase,279
+All causes,Persons,East Staffordshire,441
+All causes,Persons,Lichfield,408
+All causes,Persons,Newcastle-under-Lyme,445
+All causes,Persons,South Staffordshire,441
+All causes,Persons,Stafford,444
+All causes,Persons,Staffordshire Moorlands,352
+All causes,Persons,Tamworth,220
+All causes,Persons,Babergh,322
+All causes,Persons,Ipswich,395
+All causes,Persons,Mid Suffolk,341
+All causes,Persons,Elmbridge,379
+All causes,Persons,Epsom and Ewell,234
+All causes,Persons,Guildford,343
+All causes,Persons,Mole Valley,364
+All causes,Persons,Reigate and Banstead,518
+All causes,Persons,Runnymede,259
+All causes,Persons,Spelthorne,304
+All causes,Persons,Surrey Heath,336
+All causes,Persons,Tandridge,314
+All causes,Persons,Waverley,427
+All causes,Persons,Woking,276
+All causes,Persons,North Warwickshire,277
+All causes,Persons,Nuneaton and Bedworth,471
+All causes,Persons,Rugby,304
+All causes,Persons,Stratford-on-Avon,504
+All causes,Persons,Warwick,399
+All causes,Persons,Adur,227
+All causes,Persons,Arun,621
+All causes,Persons,Chichester,471
+All causes,Persons,Crawley,255
+All causes,Persons,Horsham,475
+All causes,Persons,Mid Sussex,519
+All causes,Persons,Worthing,422
+All causes,Persons,Bromsgrove,397
+All causes,Persons,Malvern Hills,339
+All causes,Persons,Redditch,232
+All causes,Persons,Worcester,302
+All causes,Persons,Wychavon,420
+All causes,Persons,Wyre Forest,403
+All causes,Persons,St Albans,445
+All causes,Persons,Welwyn Hatfield,343
+All causes,Persons,East Hertfordshire,405
+All causes,Persons,Stevenage,258
+All causes,Persons,East Suffolk,995
+All causes,Persons,West Suffolk,487
+All causes,Persons,Somerset West and Taunton,527
+All causes,Persons,Bolton,954
+All causes,Persons,Bury,619
+All causes,Persons,Manchester,"1,139"
+All causes,Persons,Oldham,738
+All causes,Persons,Rochdale,666
+All causes,Persons,Salford,832
+All causes,Persons,Stockport,976
+All causes,Persons,Tameside,819
+All causes,Persons,Trafford,695
+All causes,Persons,Wigan,"1,080"
+All causes,Persons,Knowsley,527
+All causes,Persons,Liverpool,"1,715"
+All causes,Persons,St. Helens,673
+All causes,Persons,Sefton,"1,191"
+All causes,Persons,Wirral,"1,307"
+All causes,Persons,Barnsley,893
+All causes,Persons,Doncaster,983
+All causes,Persons,Rotherham,983
+All causes,Persons,Sheffield,"1,755"
+All causes,Persons,Newcastle upon Tyne,843
+All causes,Persons,North Tyneside,644
+All causes,Persons,South Tyneside,577
+All causes,Persons,Sunderland,"1,041"
+All causes,Persons,Birmingham,"3,465"
+All causes,Persons,Coventry,966
+All causes,Persons,Dudley,"1,140"
+All causes,Persons,Sandwell,"1,124"
+All causes,Persons,Solihull,868
+All causes,Persons,Walsall,"1,083"
+All causes,Persons,Wolverhampton,"1,013"
+All causes,Persons,Bradford,"1,603"
+All causes,Persons,Calderdale,640
+All causes,Persons,Kirklees,"1,320"
+All causes,Persons,Leeds,"2,264"
+All causes,Persons,Wakefield,"1,174"
+All causes,Persons,Gateshead,760
+All causes,Persons,City of London,16
+All causes,Persons,Barking and Dagenham,467
+All causes,Persons,Barnet,"1,121"
+All causes,Persons,Bexley,721
+All causes,Persons,Brent,921
+All causes,Persons,Bromley,980
+All causes,Persons,Camden,404
+All causes,Persons,Croydon,"1,124"
+All causes,Persons,Ealing,915
+All causes,Persons,Enfield,988
+All causes,Persons,Greenwich,658
+All causes,Persons,Hackney,496
+All causes,Persons,Hammersmith and Fulham,387
+All causes,Persons,Haringey,576
+All causes,Persons,Harrow,791
+All causes,Persons,Havering,915
+All causes,Persons,Hillingdon,831
+All causes,Persons,Hounslow,588
+All causes,Persons,Islington,416
+All causes,Persons,Kensington and Chelsea,285
+All causes,Persons,Kingston upon Thames,447
+All causes,Persons,Lambeth,644
+All causes,Persons,Lewisham,643
+All causes,Persons,Merton,534
+All causes,Persons,Newham,654
+All causes,Persons,Redbridge,797
+All causes,Persons,Richmond upon Thames,434
+All causes,Persons,Southwark,558
+All causes,Persons,Sutton,551
+All causes,Persons,Tower Hamlets,437
+All causes,Persons,Waltham Forest,610
+All causes,Persons,Wandsworth,585
+All causes,Persons,Westminster,454
+All causes,Persons,Cambridgeshire,"1,722"
+All causes,Persons,Cumbria,"1,953"
+All causes,Persons,Derbyshire,"2,665"
+All causes,Persons,Devon,"2,314"
+All causes,Persons,East Sussex,"1,890"
+All causes,Persons,Essex,"4,998"
+All causes,Persons,Gloucestershire,"2,077"
+All causes,Persons,Hampshire,"4,264"
+All causes,Persons,Hertfordshire,"3,706"
+All causes,Persons,Kent,"4,814"
+All causes,Persons,Lancashire,"4,108"
+All causes,Persons,Leicestershire,"2,065"
+All causes,Persons,Lincolnshire,"2,345"
+All causes,Persons,Norfolk,"2,924"
+All causes,Persons,Northamptonshire,"2,275"
+All causes,Persons,North Yorkshire,"2,194"
+All causes,Persons,Nottinghamshire,"2,520"
+All causes,Persons,Oxfordshire,"1,941"
+All causes,Persons,Somerset,"1,745"
+All causes,Persons,Staffordshire,"3,030"
+All causes,Persons,Suffolk,"2,540"
+All causes,Persons,Surrey,"3,754"
+All causes,Persons,Warwickshire,"1,955"
+All causes,Persons,West Sussex,"2,990"
+All causes,Persons,Worcestershire,"2,093"
+All causes,Persons,Greater Manchester,"8,518"
+All causes,Persons,Merseyside,"5,413"
+All causes,Persons,South Yorkshire,"4,614"
+All causes,Persons,West Midlands,"9,659"
+All causes,Persons,West Yorkshire,"7,001"
+All causes,Persons,Tyne and Wear,"3,865"
+All causes,Persons,North East,"9,388"
+All causes,Persons,North West,"24,824"
+All causes,Persons,Yorkshire and The Humber,"17,450"
+All causes,Persons,East Midlands,"14,481"
+All causes,Persons,West Midlands,"19,801"
+All causes,Persons,East of England,"19,396"
+All causes,Persons,London,"20,948"
+All causes,Persons,South East,"27,021"
+All causes,Persons,South West,"16,885"
+All causes,Persons,England,"170,194"
+All causes,Persons,Usual residence outside England and Wales,210
+All causes,Persons,"ENGLAND, WALES AND ELSEWHERE","180,586"
+All causes,Persons,Isle of Anglesey,211
+All causes,Persons,Gwynedd,364
+All causes,Persons,Conwy,410
+All causes,Persons,Denbighshire,353
+All causes,Persons,Flintshire,477
+All causes,Persons,Wrexham,410
+All causes,Persons,Ceredigion,201
+All causes,Persons,Pembrokeshire,418
+All causes,Persons,Carmarthenshire,630
+All causes,Persons,Swansea,786
+All causes,Persons,Neath Port Talbot,497
+All causes,Persons,Bridgend,469
+All causes,Persons,Vale of Glamorgan,390
+All causes,Persons,Cardiff,994
+All causes,Persons,Rhondda Cynon Taf,906
+All causes,Persons,Caerphilly,567
+All causes,Persons,Blaenau Gwent,270
+All causes,Persons,Torfaen,311
+All causes,Persons,Monmouthshire,298
+All causes,Persons,Newport,499
+All causes,Persons,Powys,482
+All causes,Persons,Merthyr Tydfil,239
+All causes,Persons,Betsi Cadwaladr University Health Board,"2,225"
+All causes,Persons,Powys Teaching Health Board,482
+All causes,Persons,Hywel Dda University Health Board,"1,249"
+All causes,Persons,Aneurin Bevan University Health Board,"1,945"
+All causes,Persons,Cardiff and Vale University Health Board,"1,384"
+All causes,Persons,Cwm Taf Morgannwg University Health Board,"1,614"
+All causes,Persons,Swansea Bay University Health Board,"1,283"
+All causes,Persons,Wales,"10,182"
+All causes,Males,Hartlepool,159
+All causes,Males,Middlesbrough,279
+All causes,Males,Redcar and Cleveland,242
+All causes,Males,Stockton-on-Tees,267
+All causes,Males,Darlington,205
+All causes,Males,Halton,211
+All causes,Males,Warrington,347
+All causes,Males,Blackburn with Darwen,230
+All causes,Males,Blackpool,287
+All causes,Males,"Kingston upon Hull, City of",403
+All causes,Males,East Riding of Yorkshire,641
+All causes,Males,North East Lincolnshire,220
+All causes,Males,North Lincolnshire,282
+All causes,Males,York,317
+All causes,Males,Derby,441
+All causes,Males,Leicester,465
+All causes,Males,Rutland,60
+All causes,Males,Nottingham,397
+All causes,Males,"Herefordshire, County of",301
+All causes,Males,Telford and Wrekin,243
+All causes,Males,Stoke-on-Trent,396
+All causes,Males,Bath and North East Somerset,263
+All causes,Males,"Bristol, City of",490
+All causes,Males,North Somerset,328
+All causes,Males,South Gloucestershire,373
+All causes,Males,Plymouth,335
+All causes,Males,Torbay,234
+All causes,Males,Swindon,319
+All causes,Males,Peterborough,242
+All causes,Males,Luton,310
+All causes,Males,Southend-on-Sea,335
+All causes,Males,Thurrock,239
+All causes,Males,Medway,320
+All causes,Males,Bracknell Forest,120
+All causes,Males,West Berkshire,223
+All causes,Males,Reading,220
+All causes,Males,Slough,178
+All causes,Males,Windsor and Maidenhead,220
+All causes,Males,Wokingham,206
+All causes,Males,Milton Keynes,319
+All causes,Males,Brighton and Hove,326
+All causes,Males,Portsmouth,273
+All causes,Males,Southampton,311
+All causes,Males,Isle of Wight,212
+All causes,Males,County Durham,996
+All causes,Males,Cheshire East,731
+All causes,Males,Cheshire West and Chester,579
+All causes,Males,Shropshire,570
+All causes,Males,Cornwall,878
+All causes,Males,Isles of Scilly,2
+All causes,Males,Wiltshire,755
+All causes,Males,Bedford,233
+All causes,Males,Central Bedfordshire,438
+All causes,Males,Northumberland,536
+All causes,Males,"Bournemouth, Christchurch and Poole",606
+All causes,Males,Dorset,712
+All causes,Males,Buckinghamshire,712
+All causes,Males,Cambridge,126
+All causes,Males,East Cambridgeshire,130
+All causes,Males,Fenland,184
+All causes,Males,Huntingdonshire,242
+All causes,Males,South Cambridgeshire,189
+All causes,Males,Allerdale,182
+All causes,Males,Barrow-in-Furness,124
+All causes,Males,Carlisle,194
+All causes,Males,Copeland,122
+All causes,Males,Eden,78
+All causes,Males,South Lakeland,258
+All causes,Males,Amber Valley,188
+All causes,Males,Bolsover,114
+All causes,Males,Chesterfield,174
+All causes,Males,Derbyshire Dales,132
+All causes,Males,Erewash,198
+All causes,Males,High Peak,164
+All causes,Males,North East Derbyshire,199
+All causes,Males,South Derbyshire,174
+All causes,Males,East Devon,236
+All causes,Males,Exeter,143
+All causes,Males,Mid Devon,108
+All causes,Males,North Devon,156
+All causes,Males,South Hams,120
+All causes,Males,Teignbridge,214
+All causes,Males,Torridge,96
+All causes,Males,West Devon,104
+All causes,Males,Eastbourne,161
+All causes,Males,Hastings,128
+All causes,Males,Lewes,204
+All causes,Males,Rother,187
+All causes,Males,Wealden,260
+All causes,Males,Basildon,304
+All causes,Males,Braintree,239
+All causes,Males,Brentwood,116
+All causes,Males,Castle Point,154
+All causes,Males,Chelmsford,274
+All causes,Males,Colchester,224
+All causes,Males,Epping Forest,268
+All causes,Males,Harlow,128
+All causes,Males,Maldon,103
+All causes,Males,Rochford,171
+All causes,Males,Tendring,360
+All causes,Males,Uttlesford,112
+All causes,Males,Cheltenham,184
+All causes,Males,Cotswold,143
+All causes,Males,Forest of Dean,138
+All causes,Males,Gloucester,234
+All causes,Males,Stroud,177
+All causes,Males,Tewkesbury,159
+All causes,Males,Basingstoke and Deane,226
+All causes,Males,East Hampshire,179
+All causes,Males,Eastleigh,171
+All causes,Males,Fareham,208
+All causes,Males,Gosport,123
+All causes,Males,Hart,105
+All causes,Males,Havant,231
+All causes,Males,New Forest,327
+All causes,Males,Rushmoor,133
+All causes,Males,Test Valley,190
+All causes,Males,Winchester,177
+All causes,Males,Broxbourne,141
+All causes,Males,Dacorum,234
+All causes,Males,Hertsmere,225
+All causes,Males,North Hertfordshire,218
+All causes,Males,Three Rivers,137
+All causes,Males,Watford,140
+All causes,Males,Ashford,183
+All causes,Males,Canterbury,237
+All causes,Males,Dartford,147
+All causes,Males,Dover,209
+All causes,Males,Gravesham,181
+All causes,Males,Maidstone,228
+All causes,Males,Sevenoaks,172
+All causes,Males,Folkestone and Hythe,202
+All causes,Males,Swale,215
+All causes,Males,Thanet,292
+All causes,Males,Tonbridge and Malling,154
+All causes,Males,Tunbridge Wells,148
+All causes,Males,Burnley,158
+All causes,Males,Chorley,196
+All causes,Males,Fylde,169
+All causes,Males,Hyndburn,128
+All causes,Males,Lancaster,231
+All causes,Males,Pendle,147
+All causes,Males,Preston,240
+All causes,Males,Ribble Valley,90
+All causes,Males,Rossendale,109
+All causes,Males,South Ribble,176
+All causes,Males,West Lancashire,233
+All causes,Males,Wyre,227
+All causes,Males,Blaby,144
+All causes,Males,Charnwood,239
+All causes,Males,Harborough,157
+All causes,Males,Hinckley and Bosworth,163
+All causes,Males,Melton,77
+All causes,Males,North West Leicestershire,144
+All causes,Males,Oadby and Wigston,106
+All causes,Males,Boston,116
+All causes,Males,East Lindsey,246
+All causes,Males,Lincoln,123
+All causes,Males,North Kesteven,168
+All causes,Males,South Holland,168
+All causes,Males,South Kesteven,197
+All causes,Males,West Lindsey,140
+All causes,Males,Breckland,259
+All causes,Males,Broadland,218
+All causes,Males,Great Yarmouth,165
+All causes,Males,King's Lynn and West Norfolk,304
+All causes,Males,North Norfolk,196
+All causes,Males,Norwich,146
+All causes,Males,South Norfolk,191
+All causes,Males,Corby,86
+All causes,Males,Daventry,129
+All causes,Males,East Northamptonshire,149
+All causes,Males,Kettering,176
+All causes,Males,Northampton,363
+All causes,Males,South Northamptonshire,120
+All causes,Males,Wellingborough,142
+All causes,Males,Craven,119
+All causes,Males,Hambleton,148
+All causes,Males,Harrogate,291
+All causes,Males,Richmondshire,82
+All causes,Males,Ryedale,95
+All causes,Males,Scarborough,199
+All causes,Males,Selby,117
+All causes,Males,Ashfield,223
+All causes,Males,Bassetlaw,158
+All causes,Males,Broxtowe,187
+All causes,Males,Gedling,179
+All causes,Males,Mansfield,159
+All causes,Males,Newark and Sherwood,181
+All causes,Males,Rushcliffe,157
+All causes,Males,Cherwell,215
+All causes,Males,Oxford,146
+All causes,Males,South Oxfordshire,197
+All causes,Males,Vale of White Horse,205
+All causes,Males,West Oxfordshire,179
+All causes,Males,Mendip,151
+All causes,Males,Sedgemoor,214
+All causes,Males,South Somerset,244
+All causes,Males,Cannock Chase,142
+All causes,Males,East Staffordshire,230
+All causes,Males,Lichfield,194
+All causes,Males,Newcastle-under-Lyme,198
+All causes,Males,South Staffordshire,227
+All causes,Males,Stafford,237
+All causes,Males,Staffordshire Moorlands,186
+All causes,Males,Tamworth,116
+All causes,Males,Babergh,176
+All causes,Males,Ipswich,191
+All causes,Males,Mid Suffolk,184
+All causes,Males,Elmbridge,175
+All causes,Males,Epsom and Ewell,124
+All causes,Males,Guildford,170
+All causes,Males,Mole Valley,185
+All causes,Males,Reigate and Banstead,228
+All causes,Males,Runnymede,127
+All causes,Males,Spelthorne,149
+All causes,Males,Surrey Heath,164
+All causes,Males,Tandridge,146
+All causes,Males,Waverley,210
+All causes,Males,Woking,126
+All causes,Males,North Warwickshire,145
+All causes,Males,Nuneaton and Bedworth,238
+All causes,Males,Rugby,167
+All causes,Males,Stratford-on-Avon,253
+All causes,Males,Warwick,196
+All causes,Males,Adur,115
+All causes,Males,Arun,316
+All causes,Males,Chichester,231
+All causes,Males,Crawley,124
+All causes,Males,Horsham,232
+All causes,Males,Mid Sussex,229
+All causes,Males,Worthing,189
+All causes,Males,Bromsgrove,196
+All causes,Males,Malvern Hills,175
+All causes,Males,Redditch,111
+All causes,Males,Worcester,136
+All causes,Males,Wychavon,201
+All causes,Males,Wyre Forest,198
+All causes,Males,St Albans,217
+All causes,Males,Welwyn Hatfield,167
+All causes,Males,East Hertfordshire,201
+All causes,Males,Stevenage,130
+All causes,Males,East Suffolk,499
+All causes,Males,West Suffolk,259
+All causes,Males,Somerset West and Taunton,254
+All causes,Males,Bolton,457
+All causes,Males,Bury,289
+All causes,Males,Manchester,603
+All causes,Males,Oldham,341
+All causes,Males,Rochdale,328
+All causes,Males,Salford,410
+All causes,Males,Stockport,486
+All causes,Males,Tameside,398
+All causes,Males,Trafford,368
+All causes,Males,Wigan,577
+All causes,Males,Knowsley,241
+All causes,Males,Liverpool,883
+All causes,Males,St. Helens,342
+All causes,Males,Sefton,589
+All causes,Males,Wirral,610
+All causes,Males,Barnsley,448
+All causes,Males,Doncaster,465
+All causes,Males,Rotherham,467
+All causes,Males,Sheffield,841
+All causes,Males,Newcastle upon Tyne,415
+All causes,Males,North Tyneside,299
+All causes,Males,South Tyneside,250
+All causes,Males,Sunderland,480
+All causes,Males,Birmingham,"1,831"
+All causes,Males,Coventry,516
+All causes,Males,Dudley,591
+All causes,Males,Sandwell,604
+All causes,Males,Solihull,407
+All causes,Males,Walsall,580
+All causes,Males,Wolverhampton,527
+All causes,Males,Bradford,810
+All causes,Males,Calderdale,315
+All causes,Males,Kirklees,678
+All causes,Males,Leeds,"1,102"
+All causes,Males,Wakefield,598
+All causes,Males,Gateshead,389
+All causes,Males,City of London,10
+All causes,Males,Barking and Dagenham,227
+All causes,Males,Barnet,594
+All causes,Males,Bexley,328
+All causes,Males,Brent,516
+All causes,Males,Bromley,460
+All causes,Males,Camden,223
+All causes,Males,Croydon,594
+All causes,Males,Ealing,509
+All causes,Males,Enfield,508
+All causes,Males,Greenwich,305
+All causes,Males,Hackney,280
+All causes,Males,Hammersmith and Fulham,204
+All causes,Males,Haringey,340
+All causes,Males,Harrow,425
+All causes,Males,Havering,452
+All causes,Males,Hillingdon,415
+All causes,Males,Hounslow,322
+All causes,Males,Islington,199
+All causes,Males,Kensington and Chelsea,157
+All causes,Males,Kingston upon Thames,217
+All causes,Males,Lambeth,371
+All causes,Males,Lewisham,346
+All causes,Males,Merton,266
+All causes,Males,Newham,402
+All causes,Males,Redbridge,441
+All causes,Males,Richmond upon Thames,220
+All causes,Males,Southwark,285
+All causes,Males,Sutton,267
+All causes,Males,Tower Hamlets,232
+All causes,Males,Waltham Forest,325
+All causes,Males,Wandsworth,307
+All causes,Males,Westminster,247
+All causes,Males,Cambridgeshire,871
+All causes,Males,Cumbria,958
+All causes,Males,Derbyshire,"1,343"
+All causes,Males,Devon,"1,177"
+All causes,Males,East Sussex,940
+All causes,Males,Essex,"2,453"
+All causes,Males,Gloucestershire,"1,035"
+All causes,Males,Hampshire,"2,070"
+All causes,Males,Hertfordshire,"1,810"
+All causes,Males,Kent,"2,368"
+All causes,Males,Lancashire,"2,104"
+All causes,Males,Leicestershire,"1,030"
+All causes,Males,Lincolnshire,"1,158"
+All causes,Males,Norfolk,"1,479"
+All causes,Males,Northamptonshire,"1,165"
+All causes,Males,North Yorkshire,"1,051"
+All causes,Males,Nottinghamshire,"1,244"
+All causes,Males,Oxfordshire,942
+All causes,Males,Somerset,863
+All causes,Males,Staffordshire,"1,530"
+All causes,Males,Suffolk,"1,309"
+All causes,Males,Surrey,"1,804"
+All causes,Males,Warwickshire,999
+All causes,Males,West Sussex,"1,436"
+All causes,Males,Worcestershire,"1,017"
+All causes,Males,Greater Manchester,"4,257"
+All causes,Males,Merseyside,"2,665"
+All causes,Males,South Yorkshire,"2,221"
+All causes,Males,West Midlands,"5,056"
+All causes,Males,West Yorkshire,"3,503"
+All causes,Males,Tyne and Wear,"1,833"
+All causes,Males,North East,"4,517"
+All causes,Males,North West,"12,369"
+All causes,Males,Yorkshire and The Humber,"8,638"
+All causes,Males,East Midlands,"7,303"
+All causes,Males,West Midlands,"10,112"
+All causes,Males,East of England,"9,719"
+All causes,Males,London,"10,994"
+All causes,Males,South East,"13,200"
+All causes,Males,South West,"8,370"
+All causes,Males,England,"85,222"
+All causes,Males,Usual residence outside England and Wales,127
+All causes,Males,"ENGLAND, WALES AND ELSEWHERE","90,413"
+All causes,Males,Isle of Anglesey,111
+All causes,Males,Gwynedd,190
+All causes,Males,Conwy,229
+All causes,Males,Denbighshire,167
+All causes,Males,Flintshire,242
+All causes,Males,Wrexham,201
+All causes,Males,Ceredigion,102
+All causes,Males,Pembrokeshire,207
+All causes,Males,Carmarthenshire,315
+All causes,Males,Swansea,377
+All causes,Males,Neath Port Talbot,243
+All causes,Males,Bridgend,220
+All causes,Males,Vale of Glamorgan,201
+All causes,Males,Cardiff,491
+All causes,Males,Rhondda Cynon Taf,428
+All causes,Males,Caerphilly,297
+All causes,Males,Blaenau Gwent,137
+All causes,Males,Torfaen,150
+All causes,Males,Monmouthshire,152
+All causes,Males,Newport,243
+All causes,Males,Powys,231
+All causes,Males,Merthyr Tydfil,130
+All causes,Males,Betsi Cadwaladr University Health Board,"1,140"
+All causes,Males,Powys Teaching Health Board,231
+All causes,Males,Hywel Dda University Health Board,624
+All causes,Males,Aneurin Bevan University Health Board,979
+All causes,Males,Cardiff and Vale University Health Board,692
+All causes,Males,Cwm Taf Morgannwg University Health Board,778
+All causes,Males,Swansea Bay University Health Board,620
+All causes,Males,Wales,"5,064"
+All causes,Females,Hartlepool,186
+All causes,Females,Middlesbrough,303
+All causes,Females,Redcar and Cleveland,234
+All causes,Females,Stockton-on-Tees,301
+All causes,Females,Darlington,165
+All causes,Females,Halton,213
+All causes,Females,Warrington,365
+All causes,Females,Blackburn with Darwen,196
+All causes,Females,Blackpool,285
+All causes,Females,"Kingston upon Hull, City of",362
+All causes,Females,East Riding of Yorkshire,618
+All causes,Females,North East Lincolnshire,202
+All causes,Females,North Lincolnshire,272
+All causes,Females,York,324
+All causes,Females,Derby,390
+All causes,Females,Leicester,444
+All causes,Females,Rutland,64
+All causes,Females,Nottingham,350
+All causes,Females,"Herefordshire, County of",334
+All causes,Females,Telford and Wrekin,256
+All causes,Females,Stoke-on-Trent,415
+All causes,Females,Bath and North East Somerset,258
+All causes,Females,"Bristol, City of",547
+All causes,Females,North Somerset,379
+All causes,Females,South Gloucestershire,394
+All causes,Females,Plymouth,345
+All causes,Females,Torbay,254
+All causes,Females,Swindon,327
+All causes,Females,Peterborough,226
+All causes,Females,Luton,260
+All causes,Females,Southend-on-Sea,322
+All causes,Females,Thurrock,214
+All causes,Females,Medway,349
+All causes,Females,Bracknell Forest,127
+All causes,Females,West Berkshire,199
+All causes,Females,Reading,236
+All causes,Females,Slough,155
+All causes,Females,Windsor and Maidenhead,248
+All causes,Females,Wokingham,232
+All causes,Females,Milton Keynes,343
+All causes,Females,Brighton and Hove,317
+All causes,Females,Portsmouth,236
+All causes,Females,Southampton,281
+All causes,Females,Isle of Wight,240
+All causes,Females,County Durham,"1,059"
+All causes,Females,Cheshire East,768
+All causes,Females,Cheshire West and Chester,620
+All causes,Females,Shropshire,549
+All causes,Females,Cornwall,798
+All causes,Females,Isles of Scilly,2
+All causes,Females,Wiltshire,830
+All causes,Females,Bedford,282
+All causes,Females,Central Bedfordshire,405
+All causes,Females,Northumberland,591
+All causes,Females,"Bournemouth, Christchurch and Poole",644
+All causes,Females,Dorset,676
+All causes,Females,Buckinghamshire,765
+All causes,Females,Cambridge,140
+All causes,Females,East Cambridgeshire,125
+All causes,Females,Fenland,185
+All causes,Females,Huntingdonshire,237
+All causes,Females,South Cambridgeshire,164
+All causes,Females,Allerdale,172
+All causes,Females,Barrow-in-Furness,146
+All causes,Females,Carlisle,221
+All causes,Females,Copeland,128
+All causes,Females,Eden,75
+All causes,Females,South Lakeland,253
+All causes,Females,Amber Valley,211
+All causes,Females,Bolsover,131
+All causes,Females,Chesterfield,180
+All causes,Females,Derbyshire Dales,131
+All causes,Females,Erewash,183
+All causes,Females,High Peak,146
+All causes,Females,North East Derbyshire,198
+All causes,Females,South Derbyshire,142
+All causes,Females,East Devon,237
+All causes,Females,Exeter,142
+All causes,Females,Mid Devon,98
+All causes,Females,North Devon,145
+All causes,Females,South Hams,129
+All causes,Females,Teignbridge,202
+All causes,Females,Torridge,99
+All causes,Females,West Devon,85
+All causes,Females,Eastbourne,187
+All causes,Females,Hastings,124
+All causes,Females,Lewes,201
+All causes,Females,Rother,182
+All causes,Females,Wealden,256
+All causes,Females,Basildon,297
+All causes,Females,Braintree,240
+All causes,Females,Brentwood,164
+All causes,Females,Castle Point,176
+All causes,Females,Chelmsford,271
+All causes,Females,Colchester,222
+All causes,Females,Epping Forest,263
+All causes,Females,Harlow,155
+All causes,Females,Maldon,116
+All causes,Females,Rochford,129
+All causes,Females,Tendring,368
+All causes,Females,Uttlesford,144
+All causes,Females,Cheltenham,199
+All causes,Females,Cotswold,136
+All causes,Females,Forest of Dean,154
+All causes,Females,Gloucester,210
+All causes,Females,Stroud,199
+All causes,Females,Tewkesbury,144
+All causes,Females,Basingstoke and Deane,222
+All causes,Females,East Hampshire,190
+All causes,Females,Eastleigh,196
+All causes,Females,Fareham,190
+All causes,Females,Gosport,159
+All causes,Females,Hart,115
+All causes,Females,Havant,219
+All causes,Females,New Forest,382
+All causes,Females,Rushmoor,108
+All causes,Females,Test Valley,221
+All causes,Females,Winchester,192
+All causes,Females,Broxbourne,167
+All causes,Females,Dacorum,245
+All causes,Females,Hertsmere,225
+All causes,Females,North Hertfordshire,204
+All causes,Females,Three Rivers,148
+All causes,Females,Watford,171
+All causes,Females,Ashford,185
+All causes,Females,Canterbury,248
+All causes,Females,Dartford,162
+All causes,Females,Dover,219
+All causes,Females,Gravesham,164
+All causes,Females,Maidstone,259
+All causes,Females,Sevenoaks,188
+All causes,Females,Folkestone and Hythe,186
+All causes,Females,Swale,218
+All causes,Females,Thanet,282
+All causes,Females,Tonbridge and Malling,157
+All causes,Females,Tunbridge Wells,178
+All causes,Females,Burnley,155
+All causes,Females,Chorley,187
+All causes,Females,Fylde,166
+All causes,Females,Hyndburn,125
+All causes,Females,Lancaster,218
+All causes,Females,Pendle,136
+All causes,Females,Preston,199
+All causes,Females,Ribble Valley,89
+All causes,Females,Rossendale,127
+All causes,Females,South Ribble,159
+All causes,Females,West Lancashire,216
+All causes,Females,Wyre,227
+All causes,Females,Blaby,129
+All causes,Females,Charnwood,217
+All causes,Females,Harborough,162
+All causes,Females,Hinckley and Bosworth,185
+All causes,Females,Melton,86
+All causes,Females,North West Leicestershire,153
+All causes,Females,Oadby and Wigston,103
+All causes,Females,Boston,105
+All causes,Females,East Lindsey,278
+All causes,Females,Lincoln,126
+All causes,Females,North Kesteven,181
+All causes,Females,South Holland,138
+All causes,Females,South Kesteven,217
+All causes,Females,West Lindsey,142
+All causes,Females,Breckland,228
+All causes,Females,Broadland,200
+All causes,Females,Great Yarmouth,159
+All causes,Females,King's Lynn and West Norfolk,297
+All causes,Females,North Norfolk,213
+All causes,Females,Norwich,156
+All causes,Females,South Norfolk,192
+All causes,Females,Corby,114
+All causes,Females,Daventry,116
+All causes,Females,East Northamptonshire,154
+All causes,Females,Kettering,161
+All causes,Females,Northampton,336
+All causes,Females,South Northamptonshire,108
+All causes,Females,Wellingborough,121
+All causes,Females,Craven,133
+All causes,Females,Hambleton,166
+All causes,Females,Harrogate,323
+All causes,Females,Richmondshire,80
+All causes,Females,Ryedale,85
+All causes,Females,Scarborough,227
+All causes,Females,Selby,129
+All causes,Females,Ashfield,204
+All causes,Females,Bassetlaw,188
+All causes,Females,Broxtowe,163
+All causes,Females,Gedling,202
+All causes,Females,Mansfield,166
+All causes,Females,Newark and Sherwood,191
+All causes,Females,Rushcliffe,162
+All causes,Females,Cherwell,237
+All causes,Females,Oxford,177
+All causes,Females,South Oxfordshire,200
+All causes,Females,Vale of White Horse,188
+All causes,Females,West Oxfordshire,197
+All causes,Females,Mendip,153
+All causes,Females,Sedgemoor,216
+All causes,Females,South Somerset,240
+All causes,Females,Cannock Chase,137
+All causes,Females,East Staffordshire,211
+All causes,Females,Lichfield,214
+All causes,Females,Newcastle-under-Lyme,247
+All causes,Females,South Staffordshire,214
+All causes,Females,Stafford,207
+All causes,Females,Staffordshire Moorlands,166
+All causes,Females,Tamworth,104
+All causes,Females,Babergh,146
+All causes,Females,Ipswich,204
+All causes,Females,Mid Suffolk,157
+All causes,Females,Elmbridge,204
+All causes,Females,Epsom and Ewell,110
+All causes,Females,Guildford,173
+All causes,Females,Mole Valley,179
+All causes,Females,Reigate and Banstead,290
+All causes,Females,Runnymede,132
+All causes,Females,Spelthorne,155
+All causes,Females,Surrey Heath,172
+All causes,Females,Tandridge,168
+All causes,Females,Waverley,217
+All causes,Females,Woking,150
+All causes,Females,North Warwickshire,132
+All causes,Females,Nuneaton and Bedworth,233
+All causes,Females,Rugby,137
+All causes,Females,Stratford-on-Avon,251
+All causes,Females,Warwick,203
+All causes,Females,Adur,112
+All causes,Females,Arun,305
+All causes,Females,Chichester,240
+All causes,Females,Crawley,131
+All causes,Females,Horsham,243
+All causes,Females,Mid Sussex,290
+All causes,Females,Worthing,233
+All causes,Females,Bromsgrove,201
+All causes,Females,Malvern Hills,164
+All causes,Females,Redditch,121
+All causes,Females,Worcester,166
+All causes,Females,Wychavon,219
+All causes,Females,Wyre Forest,205
+All causes,Females,St Albans,228
+All causes,Females,Welwyn Hatfield,176
+All causes,Females,East Hertfordshire,204
+All causes,Females,Stevenage,128
+All causes,Females,East Suffolk,496
+All causes,Females,West Suffolk,228
+All causes,Females,Somerset West and Taunton,273
+All causes,Females,Bolton,497
+All causes,Females,Bury,330
+All causes,Females,Manchester,536
+All causes,Females,Oldham,397
+All causes,Females,Rochdale,338
+All causes,Females,Salford,422
+All causes,Females,Stockport,490
+All causes,Females,Tameside,421
+All causes,Females,Trafford,327
+All causes,Females,Wigan,503
+All causes,Females,Knowsley,286
+All causes,Females,Liverpool,832
+All causes,Females,St. Helens,331
+All causes,Females,Sefton,602
+All causes,Females,Wirral,697
+All causes,Females,Barnsley,445
+All causes,Females,Doncaster,518
+All causes,Females,Rotherham,516
+All causes,Females,Sheffield,914
+All causes,Females,Newcastle upon Tyne,428
+All causes,Females,North Tyneside,345
+All causes,Females,South Tyneside,327
+All causes,Females,Sunderland,561
+All causes,Females,Birmingham,"1,634"
+All causes,Females,Coventry,450
+All causes,Females,Dudley,549
+All causes,Females,Sandwell,520
+All causes,Females,Solihull,461
+All causes,Females,Walsall,503
+All causes,Females,Wolverhampton,486
+All causes,Females,Bradford,793
+All causes,Females,Calderdale,325
+All causes,Females,Kirklees,642
+All causes,Females,Leeds,"1,162"
+All causes,Females,Wakefield,576
+All causes,Females,Gateshead,371
+All causes,Females,City of London,6
+All causes,Females,Barking and Dagenham,240
+All causes,Females,Barnet,527
+All causes,Females,Bexley,393
+All causes,Females,Brent,405
+All causes,Females,Bromley,520
+All causes,Females,Camden,181
+All causes,Females,Croydon,530
+All causes,Females,Ealing,406
+All causes,Females,Enfield,480
+All causes,Females,Greenwich,353
+All causes,Females,Hackney,216
+All causes,Females,Hammersmith and Fulham,183
+All causes,Females,Haringey,236
+All causes,Females,Harrow,366
+All causes,Females,Havering,463
+All causes,Females,Hillingdon,416
+All causes,Females,Hounslow,266
+All causes,Females,Islington,217
+All causes,Females,Kensington and Chelsea,128
+All causes,Females,Kingston upon Thames,230
+All causes,Females,Lambeth,273
+All causes,Females,Lewisham,297
+All causes,Females,Merton,268
+All causes,Females,Newham,252
+All causes,Females,Redbridge,356
+All causes,Females,Richmond upon Thames,214
+All causes,Females,Southwark,273
+All causes,Females,Sutton,284
+All causes,Females,Tower Hamlets,205
+All causes,Females,Waltham Forest,285
+All causes,Females,Wandsworth,278
+All causes,Females,Westminster,207
+All causes,Females,Cambridgeshire,851
+All causes,Females,Cumbria,995
+All causes,Females,Derbyshire,"1,322"
+All causes,Females,Devon,"1,137"
+All causes,Females,East Sussex,950
+All causes,Females,Essex,"2,545"
+All causes,Females,Gloucestershire,"1,042"
+All causes,Females,Hampshire,"2,194"
+All causes,Females,Hertfordshire,"1,896"
+All causes,Females,Kent,"2,446"
+All causes,Females,Lancashire,"2,004"
+All causes,Females,Leicestershire,"1,035"
+All causes,Females,Lincolnshire,"1,187"
+All causes,Females,Norfolk,"1,445"
+All causes,Females,Northamptonshire,"1,110"
+All causes,Females,North Yorkshire,"1,143"
+All causes,Females,Nottinghamshire,"1,276"
+All causes,Females,Oxfordshire,999
+All causes,Females,Somerset,882
+All causes,Females,Staffordshire,"1,500"
+All causes,Females,Suffolk,"1,231"
+All causes,Females,Surrey,"1,950"
+All causes,Females,Warwickshire,956
+All causes,Females,West Sussex,"1,554"
+All causes,Females,Worcestershire,"1,076"
+All causes,Females,Greater Manchester,"4,261"
+All causes,Females,Merseyside,"2,748"
+All causes,Females,South Yorkshire,"2,393"
+All causes,Females,West Midlands,"4,603"
+All causes,Females,West Yorkshire,"3,498"
+All causes,Females,Tyne and Wear,"2,032"
+All causes,Females,North East,"4,871"
+All causes,Females,North West,"12,455"
+All causes,Females,Yorkshire and The Humber,"8,812"
+All causes,Females,East Midlands,"7,178"
+All causes,Females,West Midlands,"9,689"
+All causes,Females,East of England,"9,677"
+All causes,Females,London,"9,954"
+All causes,Females,South East,"13,821"
+All causes,Females,South West,"8,515"
+All causes,Females,England,"84,972"
+All causes,Females,Usual residence outside England and Wales,83
+All causes,Females,"ENGLAND, WALES AND ELSEWHERE","90,173"
+All causes,Females,Isle of Anglesey,100
+All causes,Females,Gwynedd,174
+All causes,Females,Conwy,181
+All causes,Females,Denbighshire,186
+All causes,Females,Flintshire,235
+All causes,Females,Wrexham,209
+All causes,Females,Ceredigion,99
+All causes,Females,Pembrokeshire,211
+All causes,Females,Carmarthenshire,315
+All causes,Females,Swansea,409
+All causes,Females,Neath Port Talbot,254
+All causes,Females,Bridgend,249
+All causes,Females,Vale of Glamorgan,189
+All causes,Females,Cardiff,503
+All causes,Females,Rhondda Cynon Taf,478
+All causes,Females,Caerphilly,270
+All causes,Females,Blaenau Gwent,133
+All causes,Females,Torfaen,161
+All causes,Females,Monmouthshire,146
+All causes,Females,Newport,256
+All causes,Females,Powys,251
+All causes,Females,Merthyr Tydfil,109
+All causes,Females,Betsi Cadwaladr University Health Board,"1,085"
+All causes,Females,Powys Teaching Health Board,251
+All causes,Females,Hywel Dda University Health Board,625
+All causes,Females,Aneurin Bevan University Health Board,966
+All causes,Females,Cardiff and Vale University Health Board,692
+All causes,Females,Cwm Taf Morgannwg University Health Board,836
+All causes,Females,Swansea Bay University Health Board,663
+All causes,Females,Wales,"5,118"
+COVID-19,Persons,Hartlepool,100
+COVID-19,Persons,Middlesbrough,195
+COVID-19,Persons,Redcar and Cleveland,117
+COVID-19,Persons,Stockton-on-Tees,126
+COVID-19,Persons,Darlington,80
+COVID-19,Persons,Halton,108
+COVID-19,Persons,Warrington,215
+COVID-19,Persons,Blackburn with Darwen,85
+COVID-19,Persons,Blackpool,118
+COVID-19,Persons,"Kingston upon Hull, City of",168
+COVID-19,Persons,East Riding of Yorkshire,261
+COVID-19,Persons,North East Lincolnshire,34
+COVID-19,Persons,North Lincolnshire,94
+COVID-19,Persons,York,155
+COVID-19,Persons,Derby,277
+COVID-19,Persons,Leicester,248
+COVID-19,Persons,Rutland,21
+COVID-19,Persons,Nottingham,211
+COVID-19,Persons,"Herefordshire, County of",115
+COVID-19,Persons,Telford and Wrekin,95
+COVID-19,Persons,Stoke-on-Trent,169
+COVID-19,Persons,Bath and North East Somerset,87
+COVID-19,Persons,"Bristol, City of",230
+COVID-19,Persons,North Somerset,120
+COVID-19,Persons,South Gloucestershire,162
+COVID-19,Persons,Plymouth,82
+COVID-19,Persons,Torbay,57
+COVID-19,Persons,Swindon,158
+COVID-19,Persons,Peterborough,86
+COVID-19,Persons,Luton,191
+COVID-19,Persons,Southend-on-Sea,174
+COVID-19,Persons,Thurrock,132
+COVID-19,Persons,Medway,173
+COVID-19,Persons,Bracknell Forest,63
+COVID-19,Persons,West Berkshire,129
+COVID-19,Persons,Reading,157
+COVID-19,Persons,Slough,104
+COVID-19,Persons,Windsor and Maidenhead,126
+COVID-19,Persons,Wokingham,142
+COVID-19,Persons,Milton Keynes,192
+COVID-19,Persons,Brighton and Hove,145
+COVID-19,Persons,Portsmouth,100
+COVID-19,Persons,Southampton,158
+COVID-19,Persons,Isle of Wight,76
+COVID-19,Persons,County Durham,632
+COVID-19,Persons,Cheshire East,458
+COVID-19,Persons,Cheshire West and Chester,341
+COVID-19,Persons,Shropshire,212
+COVID-19,Persons,Cornwall,200
+COVID-19,Persons,Isles of Scilly,0
+COVID-19,Persons,Wiltshire,335
+COVID-19,Persons,Bedford,141
+COVID-19,Persons,Central Bedfordshire,229
+COVID-19,Persons,Northumberland,251
+COVID-19,Persons,"Bournemouth, Christchurch and Poole",176
+COVID-19,Persons,Dorset,157
+COVID-19,Persons,Buckinghamshire,370
+COVID-19,Persons,Cambridge,79
+COVID-19,Persons,East Cambridgeshire,48
+COVID-19,Persons,Fenland,71
+COVID-19,Persons,Huntingdonshire,104
+COVID-19,Persons,South Cambridgeshire,55
+COVID-19,Persons,Allerdale,62
+COVID-19,Persons,Barrow-in-Furness,74
+COVID-19,Persons,Carlisle,121
+COVID-19,Persons,Copeland,55
+COVID-19,Persons,Eden,38
+COVID-19,Persons,South Lakeland,143
+COVID-19,Persons,Amber Valley,87
+COVID-19,Persons,Bolsover,52
+COVID-19,Persons,Chesterfield,78
+COVID-19,Persons,Derbyshire Dales,66
+COVID-19,Persons,Erewash,80
+COVID-19,Persons,High Peak,91
+COVID-19,Persons,North East Derbyshire,129
+COVID-19,Persons,South Derbyshire,101
+COVID-19,Persons,East Devon,44
+COVID-19,Persons,Exeter,38
+COVID-19,Persons,Mid Devon,16
+COVID-19,Persons,North Devon,26
+COVID-19,Persons,South Hams,12
+COVID-19,Persons,Teignbridge,32
+COVID-19,Persons,Torridge,19
+COVID-19,Persons,West Devon,15
+COVID-19,Persons,Eastbourne,64
+COVID-19,Persons,Hastings,9
+COVID-19,Persons,Lewes,103
+COVID-19,Persons,Rother,49
+COVID-19,Persons,Wealden,99
+COVID-19,Persons,Basildon,186
+COVID-19,Persons,Braintree,109
+COVID-19,Persons,Brentwood,78
+COVID-19,Persons,Castle Point,72
+COVID-19,Persons,Chelmsford,136
+COVID-19,Persons,Colchester,105
+COVID-19,Persons,Epping Forest,177
+COVID-19,Persons,Harlow,71
+COVID-19,Persons,Maldon,32
+COVID-19,Persons,Rochford,79
+COVID-19,Persons,Tendring,147
+COVID-19,Persons,Uttlesford,60
+COVID-19,Persons,Cheltenham,132
+COVID-19,Persons,Cotswold,57
+COVID-19,Persons,Forest of Dean,45
+COVID-19,Persons,Gloucester,144
+COVID-19,Persons,Stroud,89
+COVID-19,Persons,Tewkesbury,102
+COVID-19,Persons,Basingstoke and Deane,109
+COVID-19,Persons,East Hampshire,79
+COVID-19,Persons,Eastleigh,92
+COVID-19,Persons,Fareham,94
+COVID-19,Persons,Gosport,55
+COVID-19,Persons,Hart,42
+COVID-19,Persons,Havant,105
+COVID-19,Persons,New Forest,124
+COVID-19,Persons,Rushmoor,77
+COVID-19,Persons,Test Valley,107
+COVID-19,Persons,Winchester,104
+COVID-19,Persons,Broxbourne,74
+COVID-19,Persons,Dacorum,115
+COVID-19,Persons,Hertsmere,174
+COVID-19,Persons,North Hertfordshire,92
+COVID-19,Persons,Three Rivers,86
+COVID-19,Persons,Watford,112
+COVID-19,Persons,Ashford,100
+COVID-19,Persons,Canterbury,102
+COVID-19,Persons,Dartford,102
+COVID-19,Persons,Dover,85
+COVID-19,Persons,Gravesham,79
+COVID-19,Persons,Maidstone,105
+COVID-19,Persons,Sevenoaks,90
+COVID-19,Persons,Folkestone and Hythe,92
+COVID-19,Persons,Swale,106
+COVID-19,Persons,Thanet,132
+COVID-19,Persons,Tonbridge and Malling,65
+COVID-19,Persons,Tunbridge Wells,56
+COVID-19,Persons,Burnley,55
+COVID-19,Persons,Chorley,96
+COVID-19,Persons,Fylde,78
+COVID-19,Persons,Hyndburn,52
+COVID-19,Persons,Lancaster,66
+COVID-19,Persons,Pendle,67
+COVID-19,Persons,Preston,114
+COVID-19,Persons,Ribble Valley,22
+COVID-19,Persons,Rossendale,50
+COVID-19,Persons,South Ribble,79
+COVID-19,Persons,West Lancashire,108
+COVID-19,Persons,Wyre,98
+COVID-19,Persons,Blaby,64
+COVID-19,Persons,Charnwood,102
+COVID-19,Persons,Harborough,56
+COVID-19,Persons,Hinckley and Bosworth,81
+COVID-19,Persons,Melton,26
+COVID-19,Persons,North West Leicestershire,59
+COVID-19,Persons,Oadby and Wigston,49
+COVID-19,Persons,Boston,33
+COVID-19,Persons,East Lindsey,45
+COVID-19,Persons,Lincoln,23
+COVID-19,Persons,North Kesteven,41
+COVID-19,Persons,South Holland,48
+COVID-19,Persons,South Kesteven,55
+COVID-19,Persons,West Lindsey,23
+COVID-19,Persons,Breckland,85
+COVID-19,Persons,Broadland,67
+COVID-19,Persons,Great Yarmouth,39
+COVID-19,Persons,King's Lynn and West Norfolk,135
+COVID-19,Persons,North Norfolk,49
+COVID-19,Persons,Norwich,21
+COVID-19,Persons,South Norfolk,52
+COVID-19,Persons,Corby,43
+COVID-19,Persons,Daventry,60
+COVID-19,Persons,East Northamptonshire,82
+COVID-19,Persons,Kettering,82
+COVID-19,Persons,Northampton,230
+COVID-19,Persons,South Northamptonshire,48
+COVID-19,Persons,Wellingborough,61
+COVID-19,Persons,Craven,62
+COVID-19,Persons,Hambleton,61
+COVID-19,Persons,Harrogate,153
+COVID-19,Persons,Richmondshire,42
+COVID-19,Persons,Ryedale,28
+COVID-19,Persons,Scarborough,76
+COVID-19,Persons,Selby,41
+COVID-19,Persons,Ashfield,133
+COVID-19,Persons,Bassetlaw,53
+COVID-19,Persons,Broxtowe,92
+COVID-19,Persons,Gedling,114
+COVID-19,Persons,Mansfield,61
+COVID-19,Persons,Newark and Sherwood,71
+COVID-19,Persons,Rushcliffe,77
+COVID-19,Persons,Cherwell,113
+COVID-19,Persons,Oxford,70
+COVID-19,Persons,South Oxfordshire,110
+COVID-19,Persons,Vale of White Horse,119
+COVID-19,Persons,West Oxfordshire,112
+COVID-19,Persons,Mendip,26
+COVID-19,Persons,Sedgemoor,61
+COVID-19,Persons,South Somerset,51
+COVID-19,Persons,Cannock Chase,70
+COVID-19,Persons,East Staffordshire,139
+COVID-19,Persons,Lichfield,108
+COVID-19,Persons,Newcastle-under-Lyme,120
+COVID-19,Persons,South Staffordshire,86
+COVID-19,Persons,Stafford,106
+COVID-19,Persons,Staffordshire Moorlands,60
+COVID-19,Persons,Tamworth,55
+COVID-19,Persons,Babergh,53
+COVID-19,Persons,Ipswich,119
+COVID-19,Persons,Mid Suffolk,64
+COVID-19,Persons,Elmbridge,96
+COVID-19,Persons,Epsom and Ewell,78
+COVID-19,Persons,Guildford,83
+COVID-19,Persons,Mole Valley,101
+COVID-19,Persons,Reigate and Banstead,170
+COVID-19,Persons,Runnymede,61
+COVID-19,Persons,Spelthorne,86
+COVID-19,Persons,Surrey Heath,84
+COVID-19,Persons,Tandridge,84
+COVID-19,Persons,Waverley,129
+COVID-19,Persons,Woking,67
+COVID-19,Persons,North Warwickshire,72
+COVID-19,Persons,Nuneaton and Bedworth,127
+COVID-19,Persons,Rugby,70
+COVID-19,Persons,Stratford-on-Avon,160
+COVID-19,Persons,Warwick,91
+COVID-19,Persons,Adur,39
+COVID-19,Persons,Arun,61
+COVID-19,Persons,Chichester,77
+COVID-19,Persons,Crawley,73
+COVID-19,Persons,Horsham,107
+COVID-19,Persons,Mid Sussex,159
+COVID-19,Persons,Worthing,71
+COVID-19,Persons,Bromsgrove,130
+COVID-19,Persons,Malvern Hills,46
+COVID-19,Persons,Redditch,55
+COVID-19,Persons,Worcester,57
+COVID-19,Persons,Wychavon,99
+COVID-19,Persons,Wyre Forest,112
+COVID-19,Persons,St Albans,118
+COVID-19,Persons,Welwyn Hatfield,104
+COVID-19,Persons,East Hertfordshire,97
+COVID-19,Persons,Stevenage,57
+COVID-19,Persons,East Suffolk,205
+COVID-19,Persons,West Suffolk,69
+COVID-19,Persons,Somerset West and Taunton,45
+COVID-19,Persons,Bolton,298
+COVID-19,Persons,Bury,202
+COVID-19,Persons,Manchester,365
+COVID-19,Persons,Oldham,241
+COVID-19,Persons,Rochdale,196
+COVID-19,Persons,Salford,305
+COVID-19,Persons,Stockport,325
+COVID-19,Persons,Tameside,241
+COVID-19,Persons,Trafford,210
+COVID-19,Persons,Wigan,319
+COVID-19,Persons,Knowsley,136
+COVID-19,Persons,Liverpool,550
+COVID-19,Persons,St. Helens,187
+COVID-19,Persons,Sefton,269
+COVID-19,Persons,Wirral,398
+COVID-19,Persons,Barnsley,212
+COVID-19,Persons,Doncaster,201
+COVID-19,Persons,Rotherham,269
+COVID-19,Persons,Sheffield,538
+COVID-19,Persons,Newcastle upon Tyne,228
+COVID-19,Persons,North Tyneside,147
+COVID-19,Persons,South Tyneside,154
+COVID-19,Persons,Sunderland,330
+COVID-19,Persons,Birmingham,"1,150"
+COVID-19,Persons,Coventry,273
+COVID-19,Persons,Dudley,288
+COVID-19,Persons,Sandwell,340
+COVID-19,Persons,Solihull,262
+COVID-19,Persons,Walsall,357
+COVID-19,Persons,Wolverhampton,290
+COVID-19,Persons,Bradford,445
+COVID-19,Persons,Calderdale,108
+COVID-19,Persons,Kirklees,286
+COVID-19,Persons,Leeds,647
+COVID-19,Persons,Wakefield,313
+COVID-19,Persons,Gateshead,227
+COVID-19,Persons,City of London,4
+COVID-19,Persons,Barking and Dagenham,161
+COVID-19,Persons,Barnet,446
+COVID-19,Persons,Bexley,212
+COVID-19,Persons,Brent,474
+COVID-19,Persons,Bromley,328
+COVID-19,Persons,Camden,157
+COVID-19,Persons,Croydon,473
+COVID-19,Persons,Ealing,393
+COVID-19,Persons,Enfield,377
+COVID-19,Persons,Greenwich,220
+COVID-19,Persons,Hackney,221
+COVID-19,Persons,Hammersmith and Fulham,165
+COVID-19,Persons,Haringey,261
+COVID-19,Persons,Harrow,386
+COVID-19,Persons,Havering,270
+COVID-19,Persons,Hillingdon,307
+COVID-19,Persons,Hounslow,219
+COVID-19,Persons,Islington,148
+COVID-19,Persons,Kensington and Chelsea,121
+COVID-19,Persons,Kingston upon Thames,127
+COVID-19,Persons,Lambeth,271
+COVID-19,Persons,Lewisham,280
+COVID-19,Persons,Merton,195
+COVID-19,Persons,Newham,299
+COVID-19,Persons,Redbridge,306
+COVID-19,Persons,Richmond upon Thames,145
+COVID-19,Persons,Southwark,241
+COVID-19,Persons,Sutton,169
+COVID-19,Persons,Tower Hamlets,183
+COVID-19,Persons,Waltham Forest,240
+COVID-19,Persons,Wandsworth,208
+COVID-19,Persons,Westminster,181
+COVID-19,Persons,Cambridgeshire,357
+COVID-19,Persons,Cumbria,493
+COVID-19,Persons,Derbyshire,684
+COVID-19,Persons,Devon,202
+COVID-19,Persons,East Sussex,324
+COVID-19,Persons,Essex,"1,252"
+COVID-19,Persons,Gloucestershire,569
+COVID-19,Persons,Hampshire,988
+COVID-19,Persons,Hertfordshire,"1,029"
+COVID-19,Persons,Kent,"1,114"
+COVID-19,Persons,Lancashire,885
+COVID-19,Persons,Leicestershire,437
+COVID-19,Persons,Lincolnshire,268
+COVID-19,Persons,Norfolk,448
+COVID-19,Persons,Northamptonshire,606
+COVID-19,Persons,North Yorkshire,463
+COVID-19,Persons,Nottinghamshire,601
+COVID-19,Persons,Oxfordshire,524
+COVID-19,Persons,Somerset,183
+COVID-19,Persons,Staffordshire,744
+COVID-19,Persons,Suffolk,510
+COVID-19,Persons,Surrey,"1,039"
+COVID-19,Persons,Warwickshire,520
+COVID-19,Persons,West Sussex,587
+COVID-19,Persons,Worcestershire,499
+COVID-19,Persons,Greater Manchester,"2,702"
+COVID-19,Persons,Merseyside,"1,540"
+COVID-19,Persons,South Yorkshire,"1,220"
+COVID-19,Persons,West Midlands,"2,960"
+COVID-19,Persons,West Yorkshire,"1,799"
+COVID-19,Persons,Tyne and Wear,"1,086"
+COVID-19,Persons,North East,"2,587"
+COVID-19,Persons,North West,"6,945"
+COVID-19,Persons,Yorkshire and The Humber,"4,194"
+COVID-19,Persons,East Midlands,"3,353"
+COVID-19,Persons,West Midlands,"5,314"
+COVID-19,Persons,East of England,"4,549"
+COVID-19,Persons,London,"8,188"
+COVID-19,Persons,South East,"6,511"
+COVID-19,Persons,South West,"2,718"
+COVID-19,Persons,England,"44,359"
+COVID-19,Persons,Usual residence outside England and Wales,71
+COVID-19,Persons,"ENGLAND, WALES AND ELSEWHERE","46,687"
+COVID-19,Persons,Isle of Anglesey,27
+COVID-19,Persons,Gwynedd,60
+COVID-19,Persons,Conwy,67
+COVID-19,Persons,Denbighshire,82
+COVID-19,Persons,Flintshire,114
+COVID-19,Persons,Wrexham,62
+COVID-19,Persons,Ceredigion,7
+COVID-19,Persons,Pembrokeshire,40
+COVID-19,Persons,Carmarthenshire,80
+COVID-19,Persons,Swansea,194
+COVID-19,Persons,Neath Port Talbot,98
+COVID-19,Persons,Bridgend,86
+COVID-19,Persons,Vale of Glamorgan,90
+COVID-19,Persons,Cardiff,351
+COVID-19,Persons,Rhondda Cynon Taf,266
+COVID-19,Persons,Caerphilly,128
+COVID-19,Persons,Blaenau Gwent,62
+COVID-19,Persons,Torfaen,64
+COVID-19,Persons,Monmouthshire,71
+COVID-19,Persons,Newport,158
+COVID-19,Persons,Powys,87
+COVID-19,Persons,Merthyr Tydfil,63
+COVID-19,Persons,Betsi Cadwaladr University Health Board,412
+COVID-19,Persons,Powys Teaching Health Board,87
+COVID-19,Persons,Hywel Dda University Health Board,127
+COVID-19,Persons,Aneurin Bevan University Health Board,483
+COVID-19,Persons,Cardiff and Vale University Health Board,441
+COVID-19,Persons,Cwm Taf Morgannwg University Health Board,415
+COVID-19,Persons,Swansea Bay University Health Board,292
+COVID-19,Persons,Wales,"2,257"
+COVID-19,Males,Hartlepool,48
+COVID-19,Males,Middlesbrough,94
+COVID-19,Males,Redcar and Cleveland,62
+COVID-19,Males,Stockton-on-Tees,59
+COVID-19,Males,Darlington,49
+COVID-19,Males,Halton,65
+COVID-19,Males,Warrington,111
+COVID-19,Males,Blackburn with Darwen,52
+COVID-19,Males,Blackpool,60
+COVID-19,Males,"Kingston upon Hull, City of",97
+COVID-19,Males,East Riding of Yorkshire,152
+COVID-19,Males,North East Lincolnshire,20
+COVID-19,Males,North Lincolnshire,58
+COVID-19,Males,York,84
+COVID-19,Males,Derby,159
+COVID-19,Males,Leicester,148
+COVID-19,Males,Rutland,13
+COVID-19,Males,Nottingham,111
+COVID-19,Males,"Herefordshire, County of",54
+COVID-19,Males,Telford and Wrekin,48
+COVID-19,Males,Stoke-on-Trent,98
+COVID-19,Males,Bath and North East Somerset,46
+COVID-19,Males,"Bristol, City of",116
+COVID-19,Males,North Somerset,73
+COVID-19,Males,South Gloucestershire,94
+COVID-19,Males,Plymouth,40
+COVID-19,Males,Torbay,35
+COVID-19,Males,Swindon,78
+COVID-19,Males,Peterborough,47
+COVID-19,Males,Luton,117
+COVID-19,Males,Southend-on-Sea,104
+COVID-19,Males,Thurrock,82
+COVID-19,Males,Medway,87
+COVID-19,Males,Bracknell Forest,34
+COVID-19,Males,West Berkshire,65
+COVID-19,Males,Reading,82
+COVID-19,Males,Slough,63
+COVID-19,Males,Windsor and Maidenhead,68
+COVID-19,Males,Wokingham,73
+COVID-19,Males,Milton Keynes,95
+COVID-19,Males,Brighton and Hove,81
+COVID-19,Males,Portsmouth,66
+COVID-19,Males,Southampton,84
+COVID-19,Males,Isle of Wight,35
+COVID-19,Males,County Durham,298
+COVID-19,Males,Cheshire East,238
+COVID-19,Males,Cheshire West and Chester,188
+COVID-19,Males,Shropshire,124
+COVID-19,Males,Cornwall,129
+COVID-19,Males,Isles of Scilly,0
+COVID-19,Males,Wiltshire,166
+COVID-19,Males,Bedford,77
+COVID-19,Males,Central Bedfordshire,145
+COVID-19,Males,Northumberland,127
+COVID-19,Males,"Bournemouth, Christchurch and Poole",96
+COVID-19,Males,Dorset,89
+COVID-19,Males,Buckinghamshire,187
+COVID-19,Males,Cambridge,36
+COVID-19,Males,East Cambridgeshire,31
+COVID-19,Males,Fenland,38
+COVID-19,Males,Huntingdonshire,54
+COVID-19,Males,South Cambridgeshire,27
+COVID-19,Males,Allerdale,39
+COVID-19,Males,Barrow-in-Furness,38
+COVID-19,Males,Carlisle,63
+COVID-19,Males,Copeland,28
+COVID-19,Males,Eden,26
+COVID-19,Males,South Lakeland,82
+COVID-19,Males,Amber Valley,45
+COVID-19,Males,Bolsover,26
+COVID-19,Males,Chesterfield,42
+COVID-19,Males,Derbyshire Dales,35
+COVID-19,Males,Erewash,47
+COVID-19,Males,High Peak,49
+COVID-19,Males,North East Derbyshire,66
+COVID-19,Males,South Derbyshire,54
+COVID-19,Males,East Devon,20
+COVID-19,Males,Exeter,19
+COVID-19,Males,Mid Devon,4
+COVID-19,Males,North Devon,13
+COVID-19,Males,South Hams,9
+COVID-19,Males,Teignbridge,19
+COVID-19,Males,Torridge,15
+COVID-19,Males,West Devon,9
+COVID-19,Males,Eastbourne,34
+COVID-19,Males,Hastings,6
+COVID-19,Males,Lewes,58
+COVID-19,Males,Rother,22
+COVID-19,Males,Wealden,52
+COVID-19,Males,Basildon,102
+COVID-19,Males,Braintree,64
+COVID-19,Males,Brentwood,40
+COVID-19,Males,Castle Point,47
+COVID-19,Males,Chelmsford,70
+COVID-19,Males,Colchester,60
+COVID-19,Males,Epping Forest,104
+COVID-19,Males,Harlow,41
+COVID-19,Males,Maldon,17
+COVID-19,Males,Rochford,54
+COVID-19,Males,Tendring,89
+COVID-19,Males,Uttlesford,39
+COVID-19,Males,Cheltenham,62
+COVID-19,Males,Cotswold,32
+COVID-19,Males,Forest of Dean,23
+COVID-19,Males,Gloucester,84
+COVID-19,Males,Stroud,49
+COVID-19,Males,Tewkesbury,50
+COVID-19,Males,Basingstoke and Deane,62
+COVID-19,Males,East Hampshire,48
+COVID-19,Males,Eastleigh,47
+COVID-19,Males,Fareham,51
+COVID-19,Males,Gosport,25
+COVID-19,Males,Hart,33
+COVID-19,Males,Havant,68
+COVID-19,Males,New Forest,65
+COVID-19,Males,Rushmoor,41
+COVID-19,Males,Test Valley,58
+COVID-19,Males,Winchester,57
+COVID-19,Males,Broxbourne,42
+COVID-19,Males,Dacorum,68
+COVID-19,Males,Hertsmere,83
+COVID-19,Males,North Hertfordshire,54
+COVID-19,Males,Three Rivers,53
+COVID-19,Males,Watford,57
+COVID-19,Males,Ashford,61
+COVID-19,Males,Canterbury,57
+COVID-19,Males,Dartford,58
+COVID-19,Males,Dover,48
+COVID-19,Males,Gravesham,49
+COVID-19,Males,Maidstone,61
+COVID-19,Males,Sevenoaks,47
+COVID-19,Males,Folkestone and Hythe,55
+COVID-19,Males,Swale,58
+COVID-19,Males,Thanet,76
+COVID-19,Males,Tonbridge and Malling,38
+COVID-19,Males,Tunbridge Wells,28
+COVID-19,Males,Burnley,30
+COVID-19,Males,Chorley,61
+COVID-19,Males,Fylde,40
+COVID-19,Males,Hyndburn,25
+COVID-19,Males,Lancaster,42
+COVID-19,Males,Pendle,38
+COVID-19,Males,Preston,69
+COVID-19,Males,Ribble Valley,14
+COVID-19,Males,Rossendale,25
+COVID-19,Males,South Ribble,50
+COVID-19,Males,West Lancashire,61
+COVID-19,Males,Wyre,53
+COVID-19,Males,Blaby,38
+COVID-19,Males,Charnwood,54
+COVID-19,Males,Harborough,29
+COVID-19,Males,Hinckley and Bosworth,41
+COVID-19,Males,Melton,13
+COVID-19,Males,North West Leicestershire,32
+COVID-19,Males,Oadby and Wigston,25
+COVID-19,Males,Boston,23
+COVID-19,Males,East Lindsey,20
+COVID-19,Males,Lincoln,15
+COVID-19,Males,North Kesteven,21
+COVID-19,Males,South Holland,24
+COVID-19,Males,South Kesteven,36
+COVID-19,Males,West Lindsey,15
+COVID-19,Males,Breckland,52
+COVID-19,Males,Broadland,32
+COVID-19,Males,Great Yarmouth,20
+COVID-19,Males,King's Lynn and West Norfolk,78
+COVID-19,Males,North Norfolk,31
+COVID-19,Males,Norwich,11
+COVID-19,Males,South Norfolk,29
+COVID-19,Males,Corby,18
+COVID-19,Males,Daventry,31
+COVID-19,Males,East Northamptonshire,39
+COVID-19,Males,Kettering,44
+COVID-19,Males,Northampton,125
+COVID-19,Males,South Northamptonshire,26
+COVID-19,Males,Wellingborough,33
+COVID-19,Males,Craven,30
+COVID-19,Males,Hambleton,32
+COVID-19,Males,Harrogate,93
+COVID-19,Males,Richmondshire,25
+COVID-19,Males,Ryedale,16
+COVID-19,Males,Scarborough,43
+COVID-19,Males,Selby,23
+COVID-19,Males,Ashfield,76
+COVID-19,Males,Bassetlaw,33
+COVID-19,Males,Broxtowe,49
+COVID-19,Males,Gedling,55
+COVID-19,Males,Mansfield,39
+COVID-19,Males,Newark and Sherwood,30
+COVID-19,Males,Rushcliffe,43
+COVID-19,Males,Cherwell,59
+COVID-19,Males,Oxford,39
+COVID-19,Males,South Oxfordshire,54
+COVID-19,Males,Vale of White Horse,68
+COVID-19,Males,West Oxfordshire,55
+COVID-19,Males,Mendip,17
+COVID-19,Males,Sedgemoor,34
+COVID-19,Males,South Somerset,30
+COVID-19,Males,Cannock Chase,43
+COVID-19,Males,East Staffordshire,81
+COVID-19,Males,Lichfield,51
+COVID-19,Males,Newcastle-under-Lyme,54
+COVID-19,Males,South Staffordshire,45
+COVID-19,Males,Stafford,58
+COVID-19,Males,Staffordshire Moorlands,40
+COVID-19,Males,Tamworth,33
+COVID-19,Males,Babergh,32
+COVID-19,Males,Ipswich,67
+COVID-19,Males,Mid Suffolk,43
+COVID-19,Males,Elmbridge,50
+COVID-19,Males,Epsom and Ewell,46
+COVID-19,Males,Guildford,41
+COVID-19,Males,Mole Valley,58
+COVID-19,Males,Reigate and Banstead,86
+COVID-19,Males,Runnymede,31
+COVID-19,Males,Spelthorne,51
+COVID-19,Males,Surrey Heath,42
+COVID-19,Males,Tandridge,45
+COVID-19,Males,Waverley,75
+COVID-19,Males,Woking,37
+COVID-19,Males,North Warwickshire,42
+COVID-19,Males,Nuneaton and Bedworth,72
+COVID-19,Males,Rugby,36
+COVID-19,Males,Stratford-on-Avon,85
+COVID-19,Males,Warwick,51
+COVID-19,Males,Adur,27
+COVID-19,Males,Arun,40
+COVID-19,Males,Chichester,43
+COVID-19,Males,Crawley,36
+COVID-19,Males,Horsham,57
+COVID-19,Males,Mid Sussex,69
+COVID-19,Males,Worthing,35
+COVID-19,Males,Bromsgrove,69
+COVID-19,Males,Malvern Hills,23
+COVID-19,Males,Redditch,31
+COVID-19,Males,Worcester,27
+COVID-19,Males,Wychavon,52
+COVID-19,Males,Wyre Forest,55
+COVID-19,Males,St Albans,61
+COVID-19,Males,Welwyn Hatfield,64
+COVID-19,Males,East Hertfordshire,58
+COVID-19,Males,Stevenage,41
+COVID-19,Males,East Suffolk,116
+COVID-19,Males,West Suffolk,39
+COVID-19,Males,Somerset West and Taunton,29
+COVID-19,Males,Bolton,148
+COVID-19,Males,Bury,107
+COVID-19,Males,Manchester,209
+COVID-19,Males,Oldham,127
+COVID-19,Males,Rochdale,112
+COVID-19,Males,Salford,155
+COVID-19,Males,Stockport,175
+COVID-19,Males,Tameside,129
+COVID-19,Males,Trafford,98
+COVID-19,Males,Wigan,178
+COVID-19,Males,Knowsley,68
+COVID-19,Males,Liverpool,316
+COVID-19,Males,St. Helens,107
+COVID-19,Males,Sefton,155
+COVID-19,Males,Wirral,211
+COVID-19,Males,Barnsley,110
+COVID-19,Males,Doncaster,90
+COVID-19,Males,Rotherham,135
+COVID-19,Males,Sheffield,265
+COVID-19,Males,Newcastle upon Tyne,116
+COVID-19,Males,North Tyneside,69
+COVID-19,Males,South Tyneside,65
+COVID-19,Males,Sunderland,151
+COVID-19,Males,Birmingham,661
+COVID-19,Males,Coventry,153
+COVID-19,Males,Dudley,168
+COVID-19,Males,Sandwell,198
+COVID-19,Males,Solihull,144
+COVID-19,Males,Walsall,200
+COVID-19,Males,Wolverhampton,166
+COVID-19,Males,Bradford,244
+COVID-19,Males,Calderdale,64
+COVID-19,Males,Kirklees,175
+COVID-19,Males,Leeds,333
+COVID-19,Males,Wakefield,172
+COVID-19,Males,Gateshead,124
+COVID-19,Males,City of London,2
+COVID-19,Males,Barking and Dagenham,89
+COVID-19,Males,Barnet,271
+COVID-19,Males,Bexley,121
+COVID-19,Males,Brent,289
+COVID-19,Males,Bromley,184
+COVID-19,Males,Camden,92
+COVID-19,Males,Croydon,274
+COVID-19,Males,Ealing,239
+COVID-19,Males,Enfield,230
+COVID-19,Males,Greenwich,118
+COVID-19,Males,Hackney,138
+COVID-19,Males,Hammersmith and Fulham,96
+COVID-19,Males,Haringey,173
+COVID-19,Males,Harrow,224
+COVID-19,Males,Havering,166
+COVID-19,Males,Hillingdon,159
+COVID-19,Males,Hounslow,141
+COVID-19,Males,Islington,76
+COVID-19,Males,Kensington and Chelsea,73
+COVID-19,Males,Kingston upon Thames,70
+COVID-19,Males,Lambeth,166
+COVID-19,Males,Lewisham,172
+COVID-19,Males,Merton,114
+COVID-19,Males,Newham,196
+COVID-19,Males,Redbridge,190
+COVID-19,Males,Richmond upon Thames,79
+COVID-19,Males,Southwark,137
+COVID-19,Males,Sutton,86
+COVID-19,Males,Tower Hamlets,104
+COVID-19,Males,Waltham Forest,145
+COVID-19,Males,Wandsworth,127
+COVID-19,Males,Westminster,105
+COVID-19,Males,Cambridgeshire,186
+COVID-19,Males,Cumbria,276
+COVID-19,Males,Derbyshire,364
+COVID-19,Males,Devon,108
+COVID-19,Males,East Sussex,172
+COVID-19,Males,Essex,727
+COVID-19,Males,Gloucestershire,300
+COVID-19,Males,Hampshire,555
+COVID-19,Males,Hertfordshire,581
+COVID-19,Males,Kent,636
+COVID-19,Males,Lancashire,508
+COVID-19,Males,Leicestershire,232
+COVID-19,Males,Lincolnshire,154
+COVID-19,Males,Norfolk,253
+COVID-19,Males,Northamptonshire,316
+COVID-19,Males,North Yorkshire,262
+COVID-19,Males,Nottinghamshire,325
+COVID-19,Males,Oxfordshire,275
+COVID-19,Males,Somerset,110
+COVID-19,Males,Staffordshire,405
+COVID-19,Males,Suffolk,297
+COVID-19,Males,Surrey,562
+COVID-19,Males,Warwickshire,286
+COVID-19,Males,West Sussex,307
+COVID-19,Males,Worcestershire,257
+COVID-19,Males,Greater Manchester,"1,438"
+COVID-19,Males,Merseyside,857
+COVID-19,Males,South Yorkshire,600
+COVID-19,Males,West Midlands,"1,690"
+COVID-19,Males,West Yorkshire,988
+COVID-19,Males,Tyne and Wear,525
+COVID-19,Males,North East,"1,262"
+COVID-19,Males,North West,"3,793"
+COVID-19,Males,Yorkshire and The Humber,"2,261"
+COVID-19,Males,East Midlands,"1,822"
+COVID-19,Males,West Midlands,"2,962"
+COVID-19,Males,East of England,"2,616"
+COVID-19,Males,London,"4,846"
+COVID-19,Males,South East,"3,527"
+COVID-19,Males,South West,"1,480"
+COVID-19,Males,England,"24,569"
+COVID-19,Males,Usual residence outside England and Wales,46
+COVID-19,Males,"ENGLAND, WALES AND ELSEWHERE","25,837"
+COVID-19,Males,Isle of Anglesey,8
+COVID-19,Males,Gwynedd,25
+COVID-19,Males,Conwy,39
+COVID-19,Males,Denbighshire,45
+COVID-19,Males,Flintshire,74
+COVID-19,Males,Wrexham,32
+COVID-19,Males,Ceredigion,5
+COVID-19,Males,Pembrokeshire,23
+COVID-19,Males,Carmarthenshire,42
+COVID-19,Males,Swansea,94
+COVID-19,Males,Neath Port Talbot,53
+COVID-19,Males,Bridgend,44
+COVID-19,Males,Vale of Glamorgan,56
+COVID-19,Males,Cardiff,195
+COVID-19,Males,Rhondda Cynon Taf,126
+COVID-19,Males,Caerphilly,77
+COVID-19,Males,Blaenau Gwent,42
+COVID-19,Males,Torfaen,32
+COVID-19,Males,Monmouthshire,37
+COVID-19,Males,Newport,88
+COVID-19,Males,Powys,43
+COVID-19,Males,Merthyr Tydfil,42
+COVID-19,Males,Betsi Cadwaladr University Health Board,223
+COVID-19,Males,Powys Teaching Health Board,43
+COVID-19,Males,Hywel Dda University Health Board,70
+COVID-19,Males,Aneurin Bevan University Health Board,276
+COVID-19,Males,Cardiff and Vale University Health Board,251
+COVID-19,Males,Cwm Taf Morgannwg University Health Board,212
+COVID-19,Males,Swansea Bay University Health Board,147
+COVID-19,Males,Wales,"1,222"
+COVID-19,Females,Hartlepool,52
+COVID-19,Females,Middlesbrough,101
+COVID-19,Females,Redcar and Cleveland,55
+COVID-19,Females,Stockton-on-Tees,67
+COVID-19,Females,Darlington,31
+COVID-19,Females,Halton,43
+COVID-19,Females,Warrington,104
+COVID-19,Females,Blackburn with Darwen,33
+COVID-19,Females,Blackpool,58
+COVID-19,Females,"Kingston upon Hull, City of",71
+COVID-19,Females,East Riding of Yorkshire,109
+COVID-19,Females,North East Lincolnshire,14
+COVID-19,Females,North Lincolnshire,36
+COVID-19,Females,York,71
+COVID-19,Females,Derby,118
+COVID-19,Females,Leicester,100
+COVID-19,Females,Rutland,8
+COVID-19,Females,Nottingham,100
+COVID-19,Females,"Herefordshire, County of",61
+COVID-19,Females,Telford and Wrekin,47
+COVID-19,Females,Stoke-on-Trent,71
+COVID-19,Females,Bath and North East Somerset,41
+COVID-19,Females,"Bristol, City of",114
+COVID-19,Females,North Somerset,47
+COVID-19,Females,South Gloucestershire,68
+COVID-19,Females,Plymouth,42
+COVID-19,Females,Torbay,22
+COVID-19,Females,Swindon,80
+COVID-19,Females,Peterborough,39
+COVID-19,Females,Luton,74
+COVID-19,Females,Southend-on-Sea,70
+COVID-19,Females,Thurrock,50
+COVID-19,Females,Medway,86
+COVID-19,Females,Bracknell Forest,29
+COVID-19,Females,West Berkshire,64
+COVID-19,Females,Reading,75
+COVID-19,Females,Slough,41
+COVID-19,Females,Windsor and Maidenhead,58
+COVID-19,Females,Wokingham,69
+COVID-19,Females,Milton Keynes,97
+COVID-19,Females,Brighton and Hove,64
+COVID-19,Females,Portsmouth,34
+COVID-19,Females,Southampton,74
+COVID-19,Females,Isle of Wight,41
+COVID-19,Females,County Durham,334
+COVID-19,Females,Cheshire East,220
+COVID-19,Females,Cheshire West and Chester,153
+COVID-19,Females,Shropshire,88
+COVID-19,Females,Cornwall,71
+COVID-19,Females,Isles of Scilly,0
+COVID-19,Females,Wiltshire,169
+COVID-19,Females,Bedford,64
+COVID-19,Females,Central Bedfordshire,84
+COVID-19,Females,Northumberland,124
+COVID-19,Females,"Bournemouth, Christchurch and Poole",80
+COVID-19,Females,Dorset,68
+COVID-19,Females,Buckinghamshire,183
+COVID-19,Females,Cambridge,43
+COVID-19,Females,East Cambridgeshire,17
+COVID-19,Females,Fenland,33
+COVID-19,Females,Huntingdonshire,50
+COVID-19,Females,South Cambridgeshire,28
+COVID-19,Females,Allerdale,23
+COVID-19,Females,Barrow-in-Furness,36
+COVID-19,Females,Carlisle,58
+COVID-19,Females,Copeland,27
+COVID-19,Females,Eden,12
+COVID-19,Females,South Lakeland,61
+COVID-19,Females,Amber Valley,42
+COVID-19,Females,Bolsover,26
+COVID-19,Females,Chesterfield,36
+COVID-19,Females,Derbyshire Dales,31
+COVID-19,Females,Erewash,33
+COVID-19,Females,High Peak,42
+COVID-19,Females,North East Derbyshire,63
+COVID-19,Females,South Derbyshire,47
+COVID-19,Females,East Devon,24
+COVID-19,Females,Exeter,19
+COVID-19,Females,Mid Devon,12
+COVID-19,Females,North Devon,13
+COVID-19,Females,South Hams,3
+COVID-19,Females,Teignbridge,13
+COVID-19,Females,Torridge,4
+COVID-19,Females,West Devon,6
+COVID-19,Females,Eastbourne,30
+COVID-19,Females,Hastings,3
+COVID-19,Females,Lewes,45
+COVID-19,Females,Rother,27
+COVID-19,Females,Wealden,47
+COVID-19,Females,Basildon,84
+COVID-19,Females,Braintree,45
+COVID-19,Females,Brentwood,38
+COVID-19,Females,Castle Point,25
+COVID-19,Females,Chelmsford,66
+COVID-19,Females,Colchester,45
+COVID-19,Females,Epping Forest,73
+COVID-19,Females,Harlow,30
+COVID-19,Females,Maldon,15
+COVID-19,Females,Rochford,25
+COVID-19,Females,Tendring,58
+COVID-19,Females,Uttlesford,21
+COVID-19,Females,Cheltenham,70
+COVID-19,Females,Cotswold,25
+COVID-19,Females,Forest of Dean,22
+COVID-19,Females,Gloucester,60
+COVID-19,Females,Stroud,40
+COVID-19,Females,Tewkesbury,52
+COVID-19,Females,Basingstoke and Deane,47
+COVID-19,Females,East Hampshire,31
+COVID-19,Females,Eastleigh,45
+COVID-19,Females,Fareham,43
+COVID-19,Females,Gosport,30
+COVID-19,Females,Hart,9
+COVID-19,Females,Havant,37
+COVID-19,Females,New Forest,59
+COVID-19,Females,Rushmoor,36
+COVID-19,Females,Test Valley,49
+COVID-19,Females,Winchester,47
+COVID-19,Females,Broxbourne,32
+COVID-19,Females,Dacorum,47
+COVID-19,Females,Hertsmere,91
+COVID-19,Females,North Hertfordshire,38
+COVID-19,Females,Three Rivers,33
+COVID-19,Females,Watford,55
+COVID-19,Females,Ashford,39
+COVID-19,Females,Canterbury,45
+COVID-19,Females,Dartford,44
+COVID-19,Females,Dover,37
+COVID-19,Females,Gravesham,30
+COVID-19,Females,Maidstone,44
+COVID-19,Females,Sevenoaks,43
+COVID-19,Females,Folkestone and Hythe,37
+COVID-19,Females,Swale,48
+COVID-19,Females,Thanet,56
+COVID-19,Females,Tonbridge and Malling,27
+COVID-19,Females,Tunbridge Wells,28
+COVID-19,Females,Burnley,25
+COVID-19,Females,Chorley,35
+COVID-19,Females,Fylde,38
+COVID-19,Females,Hyndburn,27
+COVID-19,Females,Lancaster,24
+COVID-19,Females,Pendle,29
+COVID-19,Females,Preston,45
+COVID-19,Females,Ribble Valley,8
+COVID-19,Females,Rossendale,25
+COVID-19,Females,South Ribble,29
+COVID-19,Females,West Lancashire,47
+COVID-19,Females,Wyre,45
+COVID-19,Females,Blaby,26
+COVID-19,Females,Charnwood,48
+COVID-19,Females,Harborough,27
+COVID-19,Females,Hinckley and Bosworth,40
+COVID-19,Females,Melton,13
+COVID-19,Females,North West Leicestershire,27
+COVID-19,Females,Oadby and Wigston,24
+COVID-19,Females,Boston,10
+COVID-19,Females,East Lindsey,25
+COVID-19,Females,Lincoln,8
+COVID-19,Females,North Kesteven,20
+COVID-19,Females,South Holland,24
+COVID-19,Females,South Kesteven,19
+COVID-19,Females,West Lindsey,8
+COVID-19,Females,Breckland,33
+COVID-19,Females,Broadland,35
+COVID-19,Females,Great Yarmouth,19
+COVID-19,Females,King's Lynn and West Norfolk,57
+COVID-19,Females,North Norfolk,18
+COVID-19,Females,Norwich,10
+COVID-19,Females,South Norfolk,23
+COVID-19,Females,Corby,25
+COVID-19,Females,Daventry,29
+COVID-19,Females,East Northamptonshire,43
+COVID-19,Females,Kettering,38
+COVID-19,Females,Northampton,105
+COVID-19,Females,South Northamptonshire,22
+COVID-19,Females,Wellingborough,28
+COVID-19,Females,Craven,32
+COVID-19,Females,Hambleton,29
+COVID-19,Females,Harrogate,60
+COVID-19,Females,Richmondshire,17
+COVID-19,Females,Ryedale,12
+COVID-19,Females,Scarborough,33
+COVID-19,Females,Selby,18
+COVID-19,Females,Ashfield,57
+COVID-19,Females,Bassetlaw,20
+COVID-19,Females,Broxtowe,43
+COVID-19,Females,Gedling,59
+COVID-19,Females,Mansfield,22
+COVID-19,Females,Newark and Sherwood,41
+COVID-19,Females,Rushcliffe,34
+COVID-19,Females,Cherwell,54
+COVID-19,Females,Oxford,31
+COVID-19,Females,South Oxfordshire,56
+COVID-19,Females,Vale of White Horse,51
+COVID-19,Females,West Oxfordshire,57
+COVID-19,Females,Mendip,9
+COVID-19,Females,Sedgemoor,27
+COVID-19,Females,South Somerset,21
+COVID-19,Females,Cannock Chase,27
+COVID-19,Females,East Staffordshire,58
+COVID-19,Females,Lichfield,57
+COVID-19,Females,Newcastle-under-Lyme,66
+COVID-19,Females,South Staffordshire,41
+COVID-19,Females,Stafford,48
+COVID-19,Females,Staffordshire Moorlands,20
+COVID-19,Females,Tamworth,22
+COVID-19,Females,Babergh,21
+COVID-19,Females,Ipswich,52
+COVID-19,Females,Mid Suffolk,21
+COVID-19,Females,Elmbridge,46
+COVID-19,Females,Epsom and Ewell,32
+COVID-19,Females,Guildford,42
+COVID-19,Females,Mole Valley,43
+COVID-19,Females,Reigate and Banstead,84
+COVID-19,Females,Runnymede,30
+COVID-19,Females,Spelthorne,35
+COVID-19,Females,Surrey Heath,42
+COVID-19,Females,Tandridge,39
+COVID-19,Females,Waverley,54
+COVID-19,Females,Woking,30
+COVID-19,Females,North Warwickshire,30
+COVID-19,Females,Nuneaton and Bedworth,55
+COVID-19,Females,Rugby,34
+COVID-19,Females,Stratford-on-Avon,75
+COVID-19,Females,Warwick,40
+COVID-19,Females,Adur,12
+COVID-19,Females,Arun,21
+COVID-19,Females,Chichester,34
+COVID-19,Females,Crawley,37
+COVID-19,Females,Horsham,50
+COVID-19,Females,Mid Sussex,90
+COVID-19,Females,Worthing,36
+COVID-19,Females,Bromsgrove,61
+COVID-19,Females,Malvern Hills,23
+COVID-19,Females,Redditch,24
+COVID-19,Females,Worcester,30
+COVID-19,Females,Wychavon,47
+COVID-19,Females,Wyre Forest,57
+COVID-19,Females,St Albans,57
+COVID-19,Females,Welwyn Hatfield,40
+COVID-19,Females,East Hertfordshire,39
+COVID-19,Females,Stevenage,16
+COVID-19,Females,East Suffolk,89
+COVID-19,Females,West Suffolk,30
+COVID-19,Females,Somerset West and Taunton,16
+COVID-19,Females,Bolton,150
+COVID-19,Females,Bury,95
+COVID-19,Females,Manchester,156
+COVID-19,Females,Oldham,114
+COVID-19,Females,Rochdale,84
+COVID-19,Females,Salford,150
+COVID-19,Females,Stockport,150
+COVID-19,Females,Tameside,112
+COVID-19,Females,Trafford,112
+COVID-19,Females,Wigan,141
+COVID-19,Females,Knowsley,68
+COVID-19,Females,Liverpool,234
+COVID-19,Females,St. Helens,80
+COVID-19,Females,Sefton,114
+COVID-19,Females,Wirral,187
+COVID-19,Females,Barnsley,102
+COVID-19,Females,Doncaster,111
+COVID-19,Females,Rotherham,134
+COVID-19,Females,Sheffield,273
+COVID-19,Females,Newcastle upon Tyne,112
+COVID-19,Females,North Tyneside,78
+COVID-19,Females,South Tyneside,89
+COVID-19,Females,Sunderland,179
+COVID-19,Females,Birmingham,489
+COVID-19,Females,Coventry,120
+COVID-19,Females,Dudley,120
+COVID-19,Females,Sandwell,142
+COVID-19,Females,Solihull,118
+COVID-19,Females,Walsall,157
+COVID-19,Females,Wolverhampton,124
+COVID-19,Females,Bradford,201
+COVID-19,Females,Calderdale,44
+COVID-19,Females,Kirklees,111
+COVID-19,Females,Leeds,314
+COVID-19,Females,Wakefield,141
+COVID-19,Females,Gateshead,103
+COVID-19,Females,City of London,2
+COVID-19,Females,Barking and Dagenham,72
+COVID-19,Females,Barnet,175
+COVID-19,Females,Bexley,91
+COVID-19,Females,Brent,185
+COVID-19,Females,Bromley,144
+COVID-19,Females,Camden,65
+COVID-19,Females,Croydon,199
+COVID-19,Females,Ealing,154
+COVID-19,Females,Enfield,147
+COVID-19,Females,Greenwich,102
+COVID-19,Females,Hackney,83
+COVID-19,Females,Hammersmith and Fulham,69
+COVID-19,Females,Haringey,88
+COVID-19,Females,Harrow,162
+COVID-19,Females,Havering,104
+COVID-19,Females,Hillingdon,148
+COVID-19,Females,Hounslow,78
+COVID-19,Females,Islington,72
+COVID-19,Females,Kensington and Chelsea,48
+COVID-19,Females,Kingston upon Thames,57
+COVID-19,Females,Lambeth,105
+COVID-19,Females,Lewisham,108
+COVID-19,Females,Merton,81
+COVID-19,Females,Newham,103
+COVID-19,Females,Redbridge,116
+COVID-19,Females,Richmond upon Thames,66
+COVID-19,Females,Southwark,104
+COVID-19,Females,Sutton,83
+COVID-19,Females,Tower Hamlets,79
+COVID-19,Females,Waltham Forest,95
+COVID-19,Females,Wandsworth,81
+COVID-19,Females,Westminster,76
+COVID-19,Females,Cambridgeshire,171
+COVID-19,Females,Cumbria,217
+COVID-19,Females,Derbyshire,320
+COVID-19,Females,Devon,94
+COVID-19,Females,East Sussex,152
+COVID-19,Females,Essex,525
+COVID-19,Females,Gloucestershire,269
+COVID-19,Females,Hampshire,433
+COVID-19,Females,Hertfordshire,448
+COVID-19,Females,Kent,478
+COVID-19,Females,Lancashire,377
+COVID-19,Females,Leicestershire,205
+COVID-19,Females,Lincolnshire,114
+COVID-19,Females,Norfolk,195
+COVID-19,Females,Northamptonshire,290
+COVID-19,Females,North Yorkshire,201
+COVID-19,Females,Nottinghamshire,276
+COVID-19,Females,Oxfordshire,249
+COVID-19,Females,Somerset,73
+COVID-19,Females,Staffordshire,339
+COVID-19,Females,Suffolk,213
+COVID-19,Females,Surrey,477
+COVID-19,Females,Warwickshire,234
+COVID-19,Females,West Sussex,280
+COVID-19,Females,Worcestershire,242
+COVID-19,Females,Greater Manchester,"1,264"
+COVID-19,Females,Merseyside,683
+COVID-19,Females,South Yorkshire,620
+COVID-19,Females,West Midlands,"1,270"
+COVID-19,Females,West Yorkshire,811
+COVID-19,Females,Tyne and Wear,561
+COVID-19,Females,North East,"1,325"
+COVID-19,Females,North West,"3,152"
+COVID-19,Females,Yorkshire and The Humber,"1,933"
+COVID-19,Females,East Midlands,"1,531"
+COVID-19,Females,West Midlands,"2,352"
+COVID-19,Females,East of England,"1,933"
+COVID-19,Females,London,"3,342"
+COVID-19,Females,South East,"2,984"
+COVID-19,Females,South West,"1,238"
+COVID-19,Females,England,"19,790"
+COVID-19,Females,Usual residence outside England and Wales,25
+COVID-19,Females,"ENGLAND, WALES AND ELSEWHERE","20,850"
+COVID-19,Females,Isle of Anglesey,19
+COVID-19,Females,Gwynedd,35
+COVID-19,Females,Conwy,28
+COVID-19,Females,Denbighshire,37
+COVID-19,Females,Flintshire,40
+COVID-19,Females,Wrexham,30
+COVID-19,Females,Ceredigion,2
+COVID-19,Females,Pembrokeshire,17
+COVID-19,Females,Carmarthenshire,38
+COVID-19,Females,Swansea,100
+COVID-19,Females,Neath Port Talbot,45
+COVID-19,Females,Bridgend,42
+COVID-19,Females,Vale of Glamorgan,34
+COVID-19,Females,Cardiff,156
+COVID-19,Females,Rhondda Cynon Taf,140
+COVID-19,Females,Caerphilly,51
+COVID-19,Females,Blaenau Gwent,20
+COVID-19,Females,Torfaen,32
+COVID-19,Females,Monmouthshire,34
+COVID-19,Females,Newport,70
+COVID-19,Females,Powys,44
+COVID-19,Females,Merthyr Tydfil,21
+COVID-19,Females,Betsi Cadwaladr University Health Board,189
+COVID-19,Females,Powys Teaching Health Board,44
+COVID-19,Females,Hywel Dda University Health Board,57
+COVID-19,Females,Aneurin Bevan University Health Board,207
+COVID-19,Females,Cardiff and Vale University Health Board,190
+COVID-19,Females,Cwm Taf Morgannwg University Health Board,203
+COVID-19,Females,Swansea Bay University Health Board,145
+COVID-19,Females,Wales,"1,035"
+Non COVID-19,Persons,Hartlepool,245
+Non COVID-19,Persons,Middlesbrough,387
+Non COVID-19,Persons,Redcar and Cleveland,359
+Non COVID-19,Persons,Stockton-on-Tees,442
+Non COVID-19,Persons,Darlington,290
+Non COVID-19,Persons,Halton,316
+Non COVID-19,Persons,Warrington,497
+Non COVID-19,Persons,Blackburn with Darwen,341
+Non COVID-19,Persons,Blackpool,454
+Non COVID-19,Persons,"Kingston upon Hull, City of",597
+Non COVID-19,Persons,East Riding of Yorkshire,998
+Non COVID-19,Persons,North East Lincolnshire,388
+Non COVID-19,Persons,North Lincolnshire,460
+Non COVID-19,Persons,York,486
+Non COVID-19,Persons,Derby,554
+Non COVID-19,Persons,Leicester,661
+Non COVID-19,Persons,Rutland,103
+Non COVID-19,Persons,Nottingham,536
+Non COVID-19,Persons,"Herefordshire, County of",520
+Non COVID-19,Persons,Telford and Wrekin,404
+Non COVID-19,Persons,Stoke-on-Trent,642
+Non COVID-19,Persons,Bath and North East Somerset,434
+Non COVID-19,Persons,"Bristol, City of",807
+Non COVID-19,Persons,North Somerset,587
+Non COVID-19,Persons,South Gloucestershire,605
+Non COVID-19,Persons,Plymouth,598
+Non COVID-19,Persons,Torbay,431
+Non COVID-19,Persons,Swindon,488
+Non COVID-19,Persons,Peterborough,382
+Non COVID-19,Persons,Luton,379
+Non COVID-19,Persons,Southend-on-Sea,483
+Non COVID-19,Persons,Thurrock,321
+Non COVID-19,Persons,Medway,496
+Non COVID-19,Persons,Bracknell Forest,184
+Non COVID-19,Persons,West Berkshire,293
+Non COVID-19,Persons,Reading,299
+Non COVID-19,Persons,Slough,229
+Non COVID-19,Persons,Windsor and Maidenhead,342
+Non COVID-19,Persons,Wokingham,296
+Non COVID-19,Persons,Milton Keynes,470
+Non COVID-19,Persons,Brighton and Hove,498
+Non COVID-19,Persons,Portsmouth,409
+Non COVID-19,Persons,Southampton,434
+Non COVID-19,Persons,Isle of Wight,376
+Non COVID-19,Persons,County Durham,"1,423"
+Non COVID-19,Persons,Cheshire East,"1,041"
+Non COVID-19,Persons,Cheshire West and Chester,858
+Non COVID-19,Persons,Shropshire,907
+Non COVID-19,Persons,Cornwall,"1,476"
+Non COVID-19,Persons,Isles of Scilly,4
+Non COVID-19,Persons,Wiltshire,"1,250"
+Non COVID-19,Persons,Bedford,374
+Non COVID-19,Persons,Central Bedfordshire,614
+Non COVID-19,Persons,Northumberland,876
+Non COVID-19,Persons,"Bournemouth, Christchurch and Poole","1,074"
+Non COVID-19,Persons,Dorset,"1,231"
+Non COVID-19,Persons,Buckinghamshire,"1,107"
+Non COVID-19,Persons,Cambridge,187
+Non COVID-19,Persons,East Cambridgeshire,207
+Non COVID-19,Persons,Fenland,298
+Non COVID-19,Persons,Huntingdonshire,375
+Non COVID-19,Persons,South Cambridgeshire,298
+Non COVID-19,Persons,Allerdale,292
+Non COVID-19,Persons,Barrow-in-Furness,196
+Non COVID-19,Persons,Carlisle,294
+Non COVID-19,Persons,Copeland,195
+Non COVID-19,Persons,Eden,115
+Non COVID-19,Persons,South Lakeland,368
+Non COVID-19,Persons,Amber Valley,312
+Non COVID-19,Persons,Bolsover,193
+Non COVID-19,Persons,Chesterfield,276
+Non COVID-19,Persons,Derbyshire Dales,197
+Non COVID-19,Persons,Erewash,301
+Non COVID-19,Persons,High Peak,219
+Non COVID-19,Persons,North East Derbyshire,268
+Non COVID-19,Persons,South Derbyshire,215
+Non COVID-19,Persons,East Devon,429
+Non COVID-19,Persons,Exeter,247
+Non COVID-19,Persons,Mid Devon,190
+Non COVID-19,Persons,North Devon,275
+Non COVID-19,Persons,South Hams,237
+Non COVID-19,Persons,Teignbridge,384
+Non COVID-19,Persons,Torridge,176
+Non COVID-19,Persons,West Devon,174
+Non COVID-19,Persons,Eastbourne,284
+Non COVID-19,Persons,Hastings,243
+Non COVID-19,Persons,Lewes,302
+Non COVID-19,Persons,Rother,320
+Non COVID-19,Persons,Wealden,417
+Non COVID-19,Persons,Basildon,415
+Non COVID-19,Persons,Braintree,370
+Non COVID-19,Persons,Brentwood,202
+Non COVID-19,Persons,Castle Point,258
+Non COVID-19,Persons,Chelmsford,409
+Non COVID-19,Persons,Colchester,341
+Non COVID-19,Persons,Epping Forest,354
+Non COVID-19,Persons,Harlow,212
+Non COVID-19,Persons,Maldon,187
+Non COVID-19,Persons,Rochford,221
+Non COVID-19,Persons,Tendring,581
+Non COVID-19,Persons,Uttlesford,196
+Non COVID-19,Persons,Cheltenham,251
+Non COVID-19,Persons,Cotswold,222
+Non COVID-19,Persons,Forest of Dean,247
+Non COVID-19,Persons,Gloucester,300
+Non COVID-19,Persons,Stroud,287
+Non COVID-19,Persons,Tewkesbury,201
+Non COVID-19,Persons,Basingstoke and Deane,339
+Non COVID-19,Persons,East Hampshire,290
+Non COVID-19,Persons,Eastleigh,275
+Non COVID-19,Persons,Fareham,304
+Non COVID-19,Persons,Gosport,227
+Non COVID-19,Persons,Hart,178
+Non COVID-19,Persons,Havant,345
+Non COVID-19,Persons,New Forest,585
+Non COVID-19,Persons,Rushmoor,164
+Non COVID-19,Persons,Test Valley,304
+Non COVID-19,Persons,Winchester,265
+Non COVID-19,Persons,Broxbourne,234
+Non COVID-19,Persons,Dacorum,364
+Non COVID-19,Persons,Hertsmere,276
+Non COVID-19,Persons,North Hertfordshire,330
+Non COVID-19,Persons,Three Rivers,199
+Non COVID-19,Persons,Watford,199
+Non COVID-19,Persons,Ashford,268
+Non COVID-19,Persons,Canterbury,383
+Non COVID-19,Persons,Dartford,207
+Non COVID-19,Persons,Dover,343
+Non COVID-19,Persons,Gravesham,266
+Non COVID-19,Persons,Maidstone,382
+Non COVID-19,Persons,Sevenoaks,270
+Non COVID-19,Persons,Folkestone and Hythe,296
+Non COVID-19,Persons,Swale,327
+Non COVID-19,Persons,Thanet,442
+Non COVID-19,Persons,Tonbridge and Malling,246
+Non COVID-19,Persons,Tunbridge Wells,270
+Non COVID-19,Persons,Burnley,258
+Non COVID-19,Persons,Chorley,287
+Non COVID-19,Persons,Fylde,257
+Non COVID-19,Persons,Hyndburn,201
+Non COVID-19,Persons,Lancaster,383
+Non COVID-19,Persons,Pendle,216
+Non COVID-19,Persons,Preston,325
+Non COVID-19,Persons,Ribble Valley,157
+Non COVID-19,Persons,Rossendale,186
+Non COVID-19,Persons,South Ribble,256
+Non COVID-19,Persons,West Lancashire,341
+Non COVID-19,Persons,Wyre,356
+Non COVID-19,Persons,Blaby,209
+Non COVID-19,Persons,Charnwood,354
+Non COVID-19,Persons,Harborough,263
+Non COVID-19,Persons,Hinckley and Bosworth,267
+Non COVID-19,Persons,Melton,137
+Non COVID-19,Persons,North West Leicestershire,238
+Non COVID-19,Persons,Oadby and Wigston,160
+Non COVID-19,Persons,Boston,188
+Non COVID-19,Persons,East Lindsey,479
+Non COVID-19,Persons,Lincoln,226
+Non COVID-19,Persons,North Kesteven,308
+Non COVID-19,Persons,South Holland,258
+Non COVID-19,Persons,South Kesteven,359
+Non COVID-19,Persons,West Lindsey,259
+Non COVID-19,Persons,Breckland,402
+Non COVID-19,Persons,Broadland,351
+Non COVID-19,Persons,Great Yarmouth,285
+Non COVID-19,Persons,King's Lynn and West Norfolk,466
+Non COVID-19,Persons,North Norfolk,360
+Non COVID-19,Persons,Norwich,281
+Non COVID-19,Persons,South Norfolk,331
+Non COVID-19,Persons,Corby,157
+Non COVID-19,Persons,Daventry,185
+Non COVID-19,Persons,East Northamptonshire,221
+Non COVID-19,Persons,Kettering,255
+Non COVID-19,Persons,Northampton,469
+Non COVID-19,Persons,South Northamptonshire,180
+Non COVID-19,Persons,Wellingborough,202
+Non COVID-19,Persons,Craven,190
+Non COVID-19,Persons,Hambleton,253
+Non COVID-19,Persons,Harrogate,461
+Non COVID-19,Persons,Richmondshire,120
+Non COVID-19,Persons,Ryedale,152
+Non COVID-19,Persons,Scarborough,350
+Non COVID-19,Persons,Selby,205
+Non COVID-19,Persons,Ashfield,294
+Non COVID-19,Persons,Bassetlaw,293
+Non COVID-19,Persons,Broxtowe,258
+Non COVID-19,Persons,Gedling,267
+Non COVID-19,Persons,Mansfield,264
+Non COVID-19,Persons,Newark and Sherwood,301
+Non COVID-19,Persons,Rushcliffe,242
+Non COVID-19,Persons,Cherwell,339
+Non COVID-19,Persons,Oxford,253
+Non COVID-19,Persons,South Oxfordshire,287
+Non COVID-19,Persons,Vale of White Horse,274
+Non COVID-19,Persons,West Oxfordshire,264
+Non COVID-19,Persons,Mendip,278
+Non COVID-19,Persons,Sedgemoor,369
+Non COVID-19,Persons,South Somerset,433
+Non COVID-19,Persons,Cannock Chase,209
+Non COVID-19,Persons,East Staffordshire,302
+Non COVID-19,Persons,Lichfield,300
+Non COVID-19,Persons,Newcastle-under-Lyme,325
+Non COVID-19,Persons,South Staffordshire,355
+Non COVID-19,Persons,Stafford,338
+Non COVID-19,Persons,Staffordshire Moorlands,292
+Non COVID-19,Persons,Tamworth,165
+Non COVID-19,Persons,Babergh,269
+Non COVID-19,Persons,Ipswich,276
+Non COVID-19,Persons,Mid Suffolk,277
+Non COVID-19,Persons,Elmbridge,283
+Non COVID-19,Persons,Epsom and Ewell,156
+Non COVID-19,Persons,Guildford,260
+Non COVID-19,Persons,Mole Valley,263
+Non COVID-19,Persons,Reigate and Banstead,348
+Non COVID-19,Persons,Runnymede,198
+Non COVID-19,Persons,Spelthorne,218
+Non COVID-19,Persons,Surrey Heath,252
+Non COVID-19,Persons,Tandridge,230
+Non COVID-19,Persons,Waverley,298
+Non COVID-19,Persons,Woking,209
+Non COVID-19,Persons,North Warwickshire,205
+Non COVID-19,Persons,Nuneaton and Bedworth,344
+Non COVID-19,Persons,Rugby,234
+Non COVID-19,Persons,Stratford-on-Avon,344
+Non COVID-19,Persons,Warwick,308
+Non COVID-19,Persons,Adur,188
+Non COVID-19,Persons,Arun,560
+Non COVID-19,Persons,Chichester,394
+Non COVID-19,Persons,Crawley,182
+Non COVID-19,Persons,Horsham,368
+Non COVID-19,Persons,Mid Sussex,360
+Non COVID-19,Persons,Worthing,351
+Non COVID-19,Persons,Bromsgrove,267
+Non COVID-19,Persons,Malvern Hills,293
+Non COVID-19,Persons,Redditch,177
+Non COVID-19,Persons,Worcester,245
+Non COVID-19,Persons,Wychavon,321
+Non COVID-19,Persons,Wyre Forest,291
+Non COVID-19,Persons,St Albans,327
+Non COVID-19,Persons,Welwyn Hatfield,239
+Non COVID-19,Persons,East Hertfordshire,308
+Non COVID-19,Persons,Stevenage,201
+Non COVID-19,Persons,East Suffolk,790
+Non COVID-19,Persons,West Suffolk,418
+Non COVID-19,Persons,Somerset West and Taunton,482
+Non COVID-19,Persons,Bolton,656
+Non COVID-19,Persons,Bury,417
+Non COVID-19,Persons,Manchester,774
+Non COVID-19,Persons,Oldham,497
+Non COVID-19,Persons,Rochdale,470
+Non COVID-19,Persons,Salford,527
+Non COVID-19,Persons,Stockport,651
+Non COVID-19,Persons,Tameside,578
+Non COVID-19,Persons,Trafford,485
+Non COVID-19,Persons,Wigan,761
+Non COVID-19,Persons,Knowsley,391
+Non COVID-19,Persons,Liverpool,"1,165"
+Non COVID-19,Persons,St. Helens,486
+Non COVID-19,Persons,Sefton,922
+Non COVID-19,Persons,Wirral,909
+Non COVID-19,Persons,Barnsley,681
+Non COVID-19,Persons,Doncaster,782
+Non COVID-19,Persons,Rotherham,714
+Non COVID-19,Persons,Sheffield,"1,217"
+Non COVID-19,Persons,Newcastle upon Tyne,615
+Non COVID-19,Persons,North Tyneside,497
+Non COVID-19,Persons,South Tyneside,423
+Non COVID-19,Persons,Sunderland,711
+Non COVID-19,Persons,Birmingham,"2,315"
+Non COVID-19,Persons,Coventry,693
+Non COVID-19,Persons,Dudley,852
+Non COVID-19,Persons,Sandwell,784
+Non COVID-19,Persons,Solihull,606
+Non COVID-19,Persons,Walsall,726
+Non COVID-19,Persons,Wolverhampton,723
+Non COVID-19,Persons,Bradford,"1,158"
+Non COVID-19,Persons,Calderdale,532
+Non COVID-19,Persons,Kirklees,"1,034"
+Non COVID-19,Persons,Leeds,"1,617"
+Non COVID-19,Persons,Wakefield,861
+Non COVID-19,Persons,Gateshead,533
+Non COVID-19,Persons,City of London,12
+Non COVID-19,Persons,Barking and Dagenham,306
+Non COVID-19,Persons,Barnet,675
+Non COVID-19,Persons,Bexley,509
+Non COVID-19,Persons,Brent,447
+Non COVID-19,Persons,Bromley,652
+Non COVID-19,Persons,Camden,247
+Non COVID-19,Persons,Croydon,651
+Non COVID-19,Persons,Ealing,522
+Non COVID-19,Persons,Enfield,611
+Non COVID-19,Persons,Greenwich,438
+Non COVID-19,Persons,Hackney,275
+Non COVID-19,Persons,Hammersmith and Fulham,222
+Non COVID-19,Persons,Haringey,315
+Non COVID-19,Persons,Harrow,405
+Non COVID-19,Persons,Havering,645
+Non COVID-19,Persons,Hillingdon,524
+Non COVID-19,Persons,Hounslow,369
+Non COVID-19,Persons,Islington,268
+Non COVID-19,Persons,Kensington and Chelsea,164
+Non COVID-19,Persons,Kingston upon Thames,320
+Non COVID-19,Persons,Lambeth,373
+Non COVID-19,Persons,Lewisham,363
+Non COVID-19,Persons,Merton,339
+Non COVID-19,Persons,Newham,355
+Non COVID-19,Persons,Redbridge,491
+Non COVID-19,Persons,Richmond upon Thames,289
+Non COVID-19,Persons,Southwark,317
+Non COVID-19,Persons,Sutton,382
+Non COVID-19,Persons,Tower Hamlets,254
+Non COVID-19,Persons,Waltham Forest,370
+Non COVID-19,Persons,Wandsworth,377
+Non COVID-19,Persons,Westminster,273
+Non COVID-19,Persons,Cambridgeshire,"1,365"
+Non COVID-19,Persons,Cumbria,"1,460"
+Non COVID-19,Persons,Derbyshire,"1,981"
+Non COVID-19,Persons,Devon,"2,112"
+Non COVID-19,Persons,East Sussex,"1,566"
+Non COVID-19,Persons,Essex,"3,746"
+Non COVID-19,Persons,Gloucestershire,"1,508"
+Non COVID-19,Persons,Hampshire,"3,276"
+Non COVID-19,Persons,Hertfordshire,"2,677"
+Non COVID-19,Persons,Kent,"3,700"
+Non COVID-19,Persons,Lancashire,"3,223"
+Non COVID-19,Persons,Leicestershire,"1,628"
+Non COVID-19,Persons,Lincolnshire,"2,077"
+Non COVID-19,Persons,Norfolk,"2,476"
+Non COVID-19,Persons,Northamptonshire,"1,669"
+Non COVID-19,Persons,North Yorkshire,"1,731"
+Non COVID-19,Persons,Nottinghamshire,"1,919"
+Non COVID-19,Persons,Oxfordshire,"1,417"
+Non COVID-19,Persons,Somerset,"1,562"
+Non COVID-19,Persons,Staffordshire,"2,286"
+Non COVID-19,Persons,Suffolk,"2,030"
+Non COVID-19,Persons,Surrey,"2,715"
+Non COVID-19,Persons,Warwickshire,"1,435"
+Non COVID-19,Persons,West Sussex,"2,403"
+Non COVID-19,Persons,Worcestershire,"1,594"
+Non COVID-19,Persons,Greater Manchester,"5,816"
+Non COVID-19,Persons,Merseyside,"3,873"
+Non COVID-19,Persons,South Yorkshire,"3,394"
+Non COVID-19,Persons,West Midlands,"6,699"
+Non COVID-19,Persons,West Yorkshire,"5,202"
+Non COVID-19,Persons,Tyne and Wear,"2,779"
+Non COVID-19,Persons,North East,"6,801"
+Non COVID-19,Persons,North West,"17,879"
+Non COVID-19,Persons,Yorkshire and The Humber,"13,256"
+Non COVID-19,Persons,East Midlands,"11,128"
+Non COVID-19,Persons,West Midlands,"14,487"
+Non COVID-19,Persons,East of England,"14,847"
+Non COVID-19,Persons,London,"12,760"
+Non COVID-19,Persons,South East,"20,510"
+Non COVID-19,Persons,South West,"14,167"
+Non COVID-19,Persons,England,"125,835"
+Non COVID-19,Persons,Usual residence outside England and Wales,139
+Non COVID-19,Persons,"ENGLAND, WALES AND ELSEWHERE","133,899"
+Non COVID-19,Persons,Isle of Anglesey,184
+Non COVID-19,Persons,Gwynedd,304
+Non COVID-19,Persons,Conwy,343
+Non COVID-19,Persons,Denbighshire,271
+Non COVID-19,Persons,Flintshire,363
+Non COVID-19,Persons,Wrexham,348
+Non COVID-19,Persons,Ceredigion,194
+Non COVID-19,Persons,Pembrokeshire,378
+Non COVID-19,Persons,Carmarthenshire,550
+Non COVID-19,Persons,Swansea,592
+Non COVID-19,Persons,Neath Port Talbot,399
+Non COVID-19,Persons,Bridgend,383
+Non COVID-19,Persons,Vale of Glamorgan,300
+Non COVID-19,Persons,Cardiff,643
+Non COVID-19,Persons,Rhondda Cynon Taf,640
+Non COVID-19,Persons,Caerphilly,439
+Non COVID-19,Persons,Blaenau Gwent,208
+Non COVID-19,Persons,Torfaen,247
+Non COVID-19,Persons,Monmouthshire,227
+Non COVID-19,Persons,Newport,341
+Non COVID-19,Persons,Powys,395
+Non COVID-19,Persons,Merthyr Tydfil,176
+Non COVID-19,Persons,Betsi Cadwaladr University Health Board,"1,813"
+Non COVID-19,Persons,Powys Teaching Health Board,395
+Non COVID-19,Persons,Hywel Dda University Health Board,"1,122"
+Non COVID-19,Persons,Aneurin Bevan University Health Board,"1,462"
+Non COVID-19,Persons,Cardiff and Vale University Health Board,943
+Non COVID-19,Persons,Cwm Taf Morgannwg University Health Board,"1,199"
+Non COVID-19,Persons,Swansea Bay University Health Board,991
+Non COVID-19,Persons,Wales,"7,925"
+Non COVID-19,Males,Hartlepool,111
+Non COVID-19,Males,Middlesbrough,185
+Non COVID-19,Males,Redcar and Cleveland,180
+Non COVID-19,Males,Stockton-on-Tees,208
+Non COVID-19,Males,Darlington,156
+Non COVID-19,Males,Halton,146
+Non COVID-19,Males,Warrington,236
+Non COVID-19,Males,Blackburn with Darwen,178
+Non COVID-19,Males,Blackpool,227
+Non COVID-19,Males,"Kingston upon Hull, City of",306
+Non COVID-19,Males,East Riding of Yorkshire,489
+Non COVID-19,Males,North East Lincolnshire,200
+Non COVID-19,Males,North Lincolnshire,224
+Non COVID-19,Males,York,233
+Non COVID-19,Males,Derby,282
+Non COVID-19,Males,Leicester,317
+Non COVID-19,Males,Rutland,47
+Non COVID-19,Males,Nottingham,286
+Non COVID-19,Males,"Herefordshire, County of",247
+Non COVID-19,Males,Telford and Wrekin,195
+Non COVID-19,Males,Stoke-on-Trent,298
+Non COVID-19,Males,Bath and North East Somerset,217
+Non COVID-19,Males,"Bristol, City of",374
+Non COVID-19,Males,North Somerset,255
+Non COVID-19,Males,South Gloucestershire,279
+Non COVID-19,Males,Plymouth,295
+Non COVID-19,Males,Torbay,199
+Non COVID-19,Males,Swindon,241
+Non COVID-19,Males,Peterborough,195
+Non COVID-19,Males,Luton,193
+Non COVID-19,Males,Southend-on-Sea,231
+Non COVID-19,Males,Thurrock,157
+Non COVID-19,Males,Medway,233
+Non COVID-19,Males,Bracknell Forest,86
+Non COVID-19,Males,West Berkshire,158
+Non COVID-19,Males,Reading,138
+Non COVID-19,Males,Slough,115
+Non COVID-19,Males,Windsor and Maidenhead,152
+Non COVID-19,Males,Wokingham,133
+Non COVID-19,Males,Milton Keynes,224
+Non COVID-19,Males,Brighton and Hove,245
+Non COVID-19,Males,Portsmouth,207
+Non COVID-19,Males,Southampton,227
+Non COVID-19,Males,Isle of Wight,177
+Non COVID-19,Males,County Durham,698
+Non COVID-19,Males,Cheshire East,493
+Non COVID-19,Males,Cheshire West and Chester,391
+Non COVID-19,Males,Shropshire,446
+Non COVID-19,Males,Cornwall,749
+Non COVID-19,Males,Isles of Scilly,2
+Non COVID-19,Males,Wiltshire,589
+Non COVID-19,Males,Bedford,156
+Non COVID-19,Males,Central Bedfordshire,293
+Non COVID-19,Males,Northumberland,409
+Non COVID-19,Males,"Bournemouth, Christchurch and Poole",510
+Non COVID-19,Males,Dorset,623
+Non COVID-19,Males,Buckinghamshire,525
+Non COVID-19,Males,Cambridge,90
+Non COVID-19,Males,East Cambridgeshire,99
+Non COVID-19,Males,Fenland,146
+Non COVID-19,Males,Huntingdonshire,188
+Non COVID-19,Males,South Cambridgeshire,162
+Non COVID-19,Males,Allerdale,143
+Non COVID-19,Males,Barrow-in-Furness,86
+Non COVID-19,Males,Carlisle,131
+Non COVID-19,Males,Copeland,94
+Non COVID-19,Males,Eden,52
+Non COVID-19,Males,South Lakeland,176
+Non COVID-19,Males,Amber Valley,143
+Non COVID-19,Males,Bolsover,88
+Non COVID-19,Males,Chesterfield,132
+Non COVID-19,Males,Derbyshire Dales,97
+Non COVID-19,Males,Erewash,151
+Non COVID-19,Males,High Peak,115
+Non COVID-19,Males,North East Derbyshire,133
+Non COVID-19,Males,South Derbyshire,120
+Non COVID-19,Males,East Devon,216
+Non COVID-19,Males,Exeter,124
+Non COVID-19,Males,Mid Devon,104
+Non COVID-19,Males,North Devon,143
+Non COVID-19,Males,South Hams,111
+Non COVID-19,Males,Teignbridge,195
+Non COVID-19,Males,Torridge,81
+Non COVID-19,Males,West Devon,95
+Non COVID-19,Males,Eastbourne,127
+Non COVID-19,Males,Hastings,122
+Non COVID-19,Males,Lewes,146
+Non COVID-19,Males,Rother,165
+Non COVID-19,Males,Wealden,208
+Non COVID-19,Males,Basildon,202
+Non COVID-19,Males,Braintree,175
+Non COVID-19,Males,Brentwood,76
+Non COVID-19,Males,Castle Point,107
+Non COVID-19,Males,Chelmsford,204
+Non COVID-19,Males,Colchester,164
+Non COVID-19,Males,Epping Forest,164
+Non COVID-19,Males,Harlow,87
+Non COVID-19,Males,Maldon,86
+Non COVID-19,Males,Rochford,117
+Non COVID-19,Males,Tendring,271
+Non COVID-19,Males,Uttlesford,73
+Non COVID-19,Males,Cheltenham,122
+Non COVID-19,Males,Cotswold,111
+Non COVID-19,Males,Forest of Dean,115
+Non COVID-19,Males,Gloucester,150
+Non COVID-19,Males,Stroud,128
+Non COVID-19,Males,Tewkesbury,109
+Non COVID-19,Males,Basingstoke and Deane,164
+Non COVID-19,Males,East Hampshire,131
+Non COVID-19,Males,Eastleigh,124
+Non COVID-19,Males,Fareham,157
+Non COVID-19,Males,Gosport,98
+Non COVID-19,Males,Hart,72
+Non COVID-19,Males,Havant,163
+Non COVID-19,Males,New Forest,262
+Non COVID-19,Males,Rushmoor,92
+Non COVID-19,Males,Test Valley,132
+Non COVID-19,Males,Winchester,120
+Non COVID-19,Males,Broxbourne,99
+Non COVID-19,Males,Dacorum,166
+Non COVID-19,Males,Hertsmere,142
+Non COVID-19,Males,North Hertfordshire,164
+Non COVID-19,Males,Three Rivers,84
+Non COVID-19,Males,Watford,83
+Non COVID-19,Males,Ashford,122
+Non COVID-19,Males,Canterbury,180
+Non COVID-19,Males,Dartford,89
+Non COVID-19,Males,Dover,161
+Non COVID-19,Males,Gravesham,132
+Non COVID-19,Males,Maidstone,167
+Non COVID-19,Males,Sevenoaks,125
+Non COVID-19,Males,Folkestone and Hythe,147
+Non COVID-19,Males,Swale,157
+Non COVID-19,Males,Thanet,216
+Non COVID-19,Males,Tonbridge and Malling,116
+Non COVID-19,Males,Tunbridge Wells,120
+Non COVID-19,Males,Burnley,128
+Non COVID-19,Males,Chorley,135
+Non COVID-19,Males,Fylde,129
+Non COVID-19,Males,Hyndburn,103
+Non COVID-19,Males,Lancaster,189
+Non COVID-19,Males,Pendle,109
+Non COVID-19,Males,Preston,171
+Non COVID-19,Males,Ribble Valley,76
+Non COVID-19,Males,Rossendale,84
+Non COVID-19,Males,South Ribble,126
+Non COVID-19,Males,West Lancashire,172
+Non COVID-19,Males,Wyre,174
+Non COVID-19,Males,Blaby,106
+Non COVID-19,Males,Charnwood,185
+Non COVID-19,Males,Harborough,128
+Non COVID-19,Males,Hinckley and Bosworth,122
+Non COVID-19,Males,Melton,64
+Non COVID-19,Males,North West Leicestershire,112
+Non COVID-19,Males,Oadby and Wigston,81
+Non COVID-19,Males,Boston,93
+Non COVID-19,Males,East Lindsey,226
+Non COVID-19,Males,Lincoln,108
+Non COVID-19,Males,North Kesteven,147
+Non COVID-19,Males,South Holland,144
+Non COVID-19,Males,South Kesteven,161
+Non COVID-19,Males,West Lindsey,125
+Non COVID-19,Males,Breckland,207
+Non COVID-19,Males,Broadland,186
+Non COVID-19,Males,Great Yarmouth,145
+Non COVID-19,Males,King's Lynn and West Norfolk,226
+Non COVID-19,Males,North Norfolk,165
+Non COVID-19,Males,Norwich,135
+Non COVID-19,Males,South Norfolk,162
+Non COVID-19,Males,Corby,68
+Non COVID-19,Males,Daventry,98
+Non COVID-19,Males,East Northamptonshire,110
+Non COVID-19,Males,Kettering,132
+Non COVID-19,Males,Northampton,238
+Non COVID-19,Males,South Northamptonshire,94
+Non COVID-19,Males,Wellingborough,109
+Non COVID-19,Males,Craven,89
+Non COVID-19,Males,Hambleton,116
+Non COVID-19,Males,Harrogate,198
+Non COVID-19,Males,Richmondshire,57
+Non COVID-19,Males,Ryedale,79
+Non COVID-19,Males,Scarborough,156
+Non COVID-19,Males,Selby,94
+Non COVID-19,Males,Ashfield,147
+Non COVID-19,Males,Bassetlaw,125
+Non COVID-19,Males,Broxtowe,138
+Non COVID-19,Males,Gedling,124
+Non COVID-19,Males,Mansfield,120
+Non COVID-19,Males,Newark and Sherwood,151
+Non COVID-19,Males,Rushcliffe,114
+Non COVID-19,Males,Cherwell,156
+Non COVID-19,Males,Oxford,107
+Non COVID-19,Males,South Oxfordshire,143
+Non COVID-19,Males,Vale of White Horse,137
+Non COVID-19,Males,West Oxfordshire,124
+Non COVID-19,Males,Mendip,134
+Non COVID-19,Males,Sedgemoor,180
+Non COVID-19,Males,South Somerset,214
+Non COVID-19,Males,Cannock Chase,99
+Non COVID-19,Males,East Staffordshire,149
+Non COVID-19,Males,Lichfield,143
+Non COVID-19,Males,Newcastle-under-Lyme,144
+Non COVID-19,Males,South Staffordshire,182
+Non COVID-19,Males,Stafford,179
+Non COVID-19,Males,Staffordshire Moorlands,146
+Non COVID-19,Males,Tamworth,83
+Non COVID-19,Males,Babergh,144
+Non COVID-19,Males,Ipswich,124
+Non COVID-19,Males,Mid Suffolk,141
+Non COVID-19,Males,Elmbridge,125
+Non COVID-19,Males,Epsom and Ewell,78
+Non COVID-19,Males,Guildford,129
+Non COVID-19,Males,Mole Valley,127
+Non COVID-19,Males,Reigate and Banstead,142
+Non COVID-19,Males,Runnymede,96
+Non COVID-19,Males,Spelthorne,98
+Non COVID-19,Males,Surrey Heath,122
+Non COVID-19,Males,Tandridge,101
+Non COVID-19,Males,Waverley,135
+Non COVID-19,Males,Woking,89
+Non COVID-19,Males,North Warwickshire,103
+Non COVID-19,Males,Nuneaton and Bedworth,166
+Non COVID-19,Males,Rugby,131
+Non COVID-19,Males,Stratford-on-Avon,168
+Non COVID-19,Males,Warwick,145
+Non COVID-19,Males,Adur,88
+Non COVID-19,Males,Arun,276
+Non COVID-19,Males,Chichester,188
+Non COVID-19,Males,Crawley,88
+Non COVID-19,Males,Horsham,175
+Non COVID-19,Males,Mid Sussex,160
+Non COVID-19,Males,Worthing,154
+Non COVID-19,Males,Bromsgrove,127
+Non COVID-19,Males,Malvern Hills,152
+Non COVID-19,Males,Redditch,80
+Non COVID-19,Males,Worcester,109
+Non COVID-19,Males,Wychavon,149
+Non COVID-19,Males,Wyre Forest,143
+Non COVID-19,Males,St Albans,156
+Non COVID-19,Males,Welwyn Hatfield,103
+Non COVID-19,Males,East Hertfordshire,143
+Non COVID-19,Males,Stevenage,89
+Non COVID-19,Males,East Suffolk,383
+Non COVID-19,Males,West Suffolk,220
+Non COVID-19,Males,Somerset West and Taunton,225
+Non COVID-19,Males,Bolton,309
+Non COVID-19,Males,Bury,182
+Non COVID-19,Males,Manchester,394
+Non COVID-19,Males,Oldham,214
+Non COVID-19,Males,Rochdale,216
+Non COVID-19,Males,Salford,255
+Non COVID-19,Males,Stockport,311
+Non COVID-19,Males,Tameside,269
+Non COVID-19,Males,Trafford,270
+Non COVID-19,Males,Wigan,399
+Non COVID-19,Males,Knowsley,173
+Non COVID-19,Males,Liverpool,567
+Non COVID-19,Males,St. Helens,235
+Non COVID-19,Males,Sefton,434
+Non COVID-19,Males,Wirral,399
+Non COVID-19,Males,Barnsley,338
+Non COVID-19,Males,Doncaster,375
+Non COVID-19,Males,Rotherham,332
+Non COVID-19,Males,Sheffield,576
+Non COVID-19,Males,Newcastle upon Tyne,299
+Non COVID-19,Males,North Tyneside,230
+Non COVID-19,Males,South Tyneside,185
+Non COVID-19,Males,Sunderland,329
+Non COVID-19,Males,Birmingham,"1,170"
+Non COVID-19,Males,Coventry,363
+Non COVID-19,Males,Dudley,423
+Non COVID-19,Males,Sandwell,406
+Non COVID-19,Males,Solihull,263
+Non COVID-19,Males,Walsall,380
+Non COVID-19,Males,Wolverhampton,361
+Non COVID-19,Males,Bradford,566
+Non COVID-19,Males,Calderdale,251
+Non COVID-19,Males,Kirklees,503
+Non COVID-19,Males,Leeds,769
+Non COVID-19,Males,Wakefield,426
+Non COVID-19,Males,Gateshead,265
+Non COVID-19,Males,City of London,8
+Non COVID-19,Males,Barking and Dagenham,138
+Non COVID-19,Males,Barnet,323
+Non COVID-19,Males,Bexley,207
+Non COVID-19,Males,Brent,227
+Non COVID-19,Males,Bromley,276
+Non COVID-19,Males,Camden,131
+Non COVID-19,Males,Croydon,320
+Non COVID-19,Males,Ealing,270
+Non COVID-19,Males,Enfield,278
+Non COVID-19,Males,Greenwich,187
+Non COVID-19,Males,Hackney,142
+Non COVID-19,Males,Hammersmith and Fulham,108
+Non COVID-19,Males,Haringey,167
+Non COVID-19,Males,Harrow,201
+Non COVID-19,Males,Havering,286
+Non COVID-19,Males,Hillingdon,256
+Non COVID-19,Males,Hounslow,181
+Non COVID-19,Males,Islington,123
+Non COVID-19,Males,Kensington and Chelsea,84
+Non COVID-19,Males,Kingston upon Thames,147
+Non COVID-19,Males,Lambeth,205
+Non COVID-19,Males,Lewisham,174
+Non COVID-19,Males,Merton,152
+Non COVID-19,Males,Newham,206
+Non COVID-19,Males,Redbridge,251
+Non COVID-19,Males,Richmond upon Thames,141
+Non COVID-19,Males,Southwark,148
+Non COVID-19,Males,Sutton,181
+Non COVID-19,Males,Tower Hamlets,128
+Non COVID-19,Males,Waltham Forest,180
+Non COVID-19,Males,Wandsworth,180
+Non COVID-19,Males,Westminster,142
+Non COVID-19,Males,Cambridgeshire,685
+Non COVID-19,Males,Cumbria,682
+Non COVID-19,Males,Derbyshire,979
+Non COVID-19,Males,Devon,"1,069"
+Non COVID-19,Males,East Sussex,768
+Non COVID-19,Males,Essex,"1,726"
+Non COVID-19,Males,Gloucestershire,735
+Non COVID-19,Males,Hampshire,"1,515"
+Non COVID-19,Males,Hertfordshire,"1,229"
+Non COVID-19,Males,Kent,"1,732"
+Non COVID-19,Males,Lancashire,"1,596"
+Non COVID-19,Males,Leicestershire,798
+Non COVID-19,Males,Lincolnshire,"1,004"
+Non COVID-19,Males,Norfolk,"1,226"
+Non COVID-19,Males,Northamptonshire,849
+Non COVID-19,Males,North Yorkshire,789
+Non COVID-19,Males,Nottinghamshire,919
+Non COVID-19,Males,Oxfordshire,667
+Non COVID-19,Males,Somerset,753
+Non COVID-19,Males,Staffordshire,"1,125"
+Non COVID-19,Males,Suffolk,"1,012"
+Non COVID-19,Males,Surrey,"1,242"
+Non COVID-19,Males,Warwickshire,713
+Non COVID-19,Males,West Sussex,"1,129"
+Non COVID-19,Males,Worcestershire,760
+Non COVID-19,Males,Greater Manchester,"2,819"
+Non COVID-19,Males,Merseyside,"1,808"
+Non COVID-19,Males,South Yorkshire,"1,621"
+Non COVID-19,Males,West Midlands,"3,366"
+Non COVID-19,Males,West Yorkshire,"2,515"
+Non COVID-19,Males,Tyne and Wear,"1,308"
+Non COVID-19,Males,North East,"3,255"
+Non COVID-19,Males,North West,"8,576"
+Non COVID-19,Males,Yorkshire and The Humber,"6,377"
+Non COVID-19,Males,East Midlands,"5,481"
+Non COVID-19,Males,West Midlands,"7,150"
+Non COVID-19,Males,East of England,"7,103"
+Non COVID-19,Males,London,"6,148"
+Non COVID-19,Males,South East,"9,673"
+Non COVID-19,Males,South West,"6,890"
+Non COVID-19,Males,England,"60,653"
+Non COVID-19,Males,Usual residence outside England and Wales,81
+Non COVID-19,Males,"ENGLAND, WALES AND ELSEWHERE","64,576"
+Non COVID-19,Males,Isle of Anglesey,103
+Non COVID-19,Males,Gwynedd,165
+Non COVID-19,Males,Conwy,190
+Non COVID-19,Males,Denbighshire,122
+Non COVID-19,Males,Flintshire,168
+Non COVID-19,Males,Wrexham,169
+Non COVID-19,Males,Ceredigion,97
+Non COVID-19,Males,Pembrokeshire,184
+Non COVID-19,Males,Carmarthenshire,273
+Non COVID-19,Males,Swansea,283
+Non COVID-19,Males,Neath Port Talbot,190
+Non COVID-19,Males,Bridgend,176
+Non COVID-19,Males,Vale of Glamorgan,145
+Non COVID-19,Males,Cardiff,296
+Non COVID-19,Males,Rhondda Cynon Taf,302
+Non COVID-19,Males,Caerphilly,220
+Non COVID-19,Males,Blaenau Gwent,95
+Non COVID-19,Males,Torfaen,118
+Non COVID-19,Males,Monmouthshire,115
+Non COVID-19,Males,Newport,155
+Non COVID-19,Males,Powys,188
+Non COVID-19,Males,Merthyr Tydfil,88
+Non COVID-19,Males,Betsi Cadwaladr University Health Board,917
+Non COVID-19,Males,Powys Teaching Health Board,188
+Non COVID-19,Males,Hywel Dda University Health Board,554
+Non COVID-19,Males,Aneurin Bevan University Health Board,703
+Non COVID-19,Males,Cardiff and Vale University Health Board,441
+Non COVID-19,Males,Cwm Taf Morgannwg University Health Board,566
+Non COVID-19,Males,Swansea Bay University Health Board,473
+Non COVID-19,Males,Wales,"3,842"
+Non COVID-19,Females,Hartlepool,134
+Non COVID-19,Females,Middlesbrough,202
+Non COVID-19,Females,Redcar and Cleveland,179
+Non COVID-19,Females,Stockton-on-Tees,234
+Non COVID-19,Females,Darlington,134
+Non COVID-19,Females,Halton,170
+Non COVID-19,Females,Warrington,261
+Non COVID-19,Females,Blackburn with Darwen,163
+Non COVID-19,Females,Blackpool,227
+Non COVID-19,Females,"Kingston upon Hull, City of",291
+Non COVID-19,Females,East Riding of Yorkshire,509
+Non COVID-19,Females,North East Lincolnshire,188
+Non COVID-19,Females,North Lincolnshire,236
+Non COVID-19,Females,York,253
+Non COVID-19,Females,Derby,272
+Non COVID-19,Females,Leicester,344
+Non COVID-19,Females,Rutland,56
+Non COVID-19,Females,Nottingham,250
+Non COVID-19,Females,"Herefordshire, County of",273
+Non COVID-19,Females,Telford and Wrekin,209
+Non COVID-19,Females,Stoke-on-Trent,344
+Non COVID-19,Females,Bath and North East Somerset,217
+Non COVID-19,Females,"Bristol, City of",433
+Non COVID-19,Females,North Somerset,332
+Non COVID-19,Females,South Gloucestershire,326
+Non COVID-19,Females,Plymouth,303
+Non COVID-19,Females,Torbay,232
+Non COVID-19,Females,Swindon,247
+Non COVID-19,Females,Peterborough,187
+Non COVID-19,Females,Luton,186
+Non COVID-19,Females,Southend-on-Sea,252
+Non COVID-19,Females,Thurrock,164
+Non COVID-19,Females,Medway,263
+Non COVID-19,Females,Bracknell Forest,98
+Non COVID-19,Females,West Berkshire,135
+Non COVID-19,Females,Reading,161
+Non COVID-19,Females,Slough,114
+Non COVID-19,Females,Windsor and Maidenhead,190
+Non COVID-19,Females,Wokingham,163
+Non COVID-19,Females,Milton Keynes,246
+Non COVID-19,Females,Brighton and Hove,253
+Non COVID-19,Females,Portsmouth,202
+Non COVID-19,Females,Southampton,207
+Non COVID-19,Females,Isle of Wight,199
+Non COVID-19,Females,County Durham,725
+Non COVID-19,Females,Cheshire East,548
+Non COVID-19,Females,Cheshire West and Chester,467
+Non COVID-19,Females,Shropshire,461
+Non COVID-19,Females,Cornwall,727
+Non COVID-19,Females,Isles of Scilly,2
+Non COVID-19,Females,Wiltshire,661
+Non COVID-19,Females,Bedford,218
+Non COVID-19,Females,Central Bedfordshire,321
+Non COVID-19,Females,Northumberland,467
+Non COVID-19,Females,"Bournemouth, Christchurch and Poole",564
+Non COVID-19,Females,Dorset,608
+Non COVID-19,Females,Buckinghamshire,582
+Non COVID-19,Females,Cambridge,97
+Non COVID-19,Females,East Cambridgeshire,108
+Non COVID-19,Females,Fenland,152
+Non COVID-19,Females,Huntingdonshire,187
+Non COVID-19,Females,South Cambridgeshire,136
+Non COVID-19,Females,Allerdale,149
+Non COVID-19,Females,Barrow-in-Furness,110
+Non COVID-19,Females,Carlisle,163
+Non COVID-19,Females,Copeland,101
+Non COVID-19,Females,Eden,63
+Non COVID-19,Females,South Lakeland,192
+Non COVID-19,Females,Amber Valley,169
+Non COVID-19,Females,Bolsover,105
+Non COVID-19,Females,Chesterfield,144
+Non COVID-19,Females,Derbyshire Dales,100
+Non COVID-19,Females,Erewash,150
+Non COVID-19,Females,High Peak,104
+Non COVID-19,Females,North East Derbyshire,135
+Non COVID-19,Females,South Derbyshire,95
+Non COVID-19,Females,East Devon,213
+Non COVID-19,Females,Exeter,123
+Non COVID-19,Females,Mid Devon,86
+Non COVID-19,Females,North Devon,132
+Non COVID-19,Females,South Hams,126
+Non COVID-19,Females,Teignbridge,189
+Non COVID-19,Females,Torridge,95
+Non COVID-19,Females,West Devon,79
+Non COVID-19,Females,Eastbourne,157
+Non COVID-19,Females,Hastings,121
+Non COVID-19,Females,Lewes,156
+Non COVID-19,Females,Rother,155
+Non COVID-19,Females,Wealden,209
+Non COVID-19,Females,Basildon,213
+Non COVID-19,Females,Braintree,195
+Non COVID-19,Females,Brentwood,126
+Non COVID-19,Females,Castle Point,151
+Non COVID-19,Females,Chelmsford,205
+Non COVID-19,Females,Colchester,177
+Non COVID-19,Females,Epping Forest,190
+Non COVID-19,Females,Harlow,125
+Non COVID-19,Females,Maldon,101
+Non COVID-19,Females,Rochford,104
+Non COVID-19,Females,Tendring,310
+Non COVID-19,Females,Uttlesford,123
+Non COVID-19,Females,Cheltenham,129
+Non COVID-19,Females,Cotswold,111
+Non COVID-19,Females,Forest of Dean,132
+Non COVID-19,Females,Gloucester,150
+Non COVID-19,Females,Stroud,159
+Non COVID-19,Females,Tewkesbury,92
+Non COVID-19,Females,Basingstoke and Deane,175
+Non COVID-19,Females,East Hampshire,159
+Non COVID-19,Females,Eastleigh,151
+Non COVID-19,Females,Fareham,147
+Non COVID-19,Females,Gosport,129
+Non COVID-19,Females,Hart,106
+Non COVID-19,Females,Havant,182
+Non COVID-19,Females,New Forest,323
+Non COVID-19,Females,Rushmoor,72
+Non COVID-19,Females,Test Valley,172
+Non COVID-19,Females,Winchester,145
+Non COVID-19,Females,Broxbourne,135
+Non COVID-19,Females,Dacorum,198
+Non COVID-19,Females,Hertsmere,134
+Non COVID-19,Females,North Hertfordshire,166
+Non COVID-19,Females,Three Rivers,115
+Non COVID-19,Females,Watford,116
+Non COVID-19,Females,Ashford,146
+Non COVID-19,Females,Canterbury,203
+Non COVID-19,Females,Dartford,118
+Non COVID-19,Females,Dover,182
+Non COVID-19,Females,Gravesham,134
+Non COVID-19,Females,Maidstone,215
+Non COVID-19,Females,Sevenoaks,145
+Non COVID-19,Females,Folkestone and Hythe,149
+Non COVID-19,Females,Swale,170
+Non COVID-19,Females,Thanet,226
+Non COVID-19,Females,Tonbridge and Malling,130
+Non COVID-19,Females,Tunbridge Wells,150
+Non COVID-19,Females,Burnley,130
+Non COVID-19,Females,Chorley,152
+Non COVID-19,Females,Fylde,128
+Non COVID-19,Females,Hyndburn,98
+Non COVID-19,Females,Lancaster,194
+Non COVID-19,Females,Pendle,107
+Non COVID-19,Females,Preston,154
+Non COVID-19,Females,Ribble Valley,81
+Non COVID-19,Females,Rossendale,102
+Non COVID-19,Females,South Ribble,130
+Non COVID-19,Females,West Lancashire,169
+Non COVID-19,Females,Wyre,182
+Non COVID-19,Females,Blaby,103
+Non COVID-19,Females,Charnwood,169
+Non COVID-19,Females,Harborough,135
+Non COVID-19,Females,Hinckley and Bosworth,145
+Non COVID-19,Females,Melton,73
+Non COVID-19,Females,North West Leicestershire,126
+Non COVID-19,Females,Oadby and Wigston,79
+Non COVID-19,Females,Boston,95
+Non COVID-19,Females,East Lindsey,253
+Non COVID-19,Females,Lincoln,118
+Non COVID-19,Females,North Kesteven,161
+Non COVID-19,Females,South Holland,114
+Non COVID-19,Females,South Kesteven,198
+Non COVID-19,Females,West Lindsey,134
+Non COVID-19,Females,Breckland,195
+Non COVID-19,Females,Broadland,165
+Non COVID-19,Females,Great Yarmouth,140
+Non COVID-19,Females,King's Lynn and West Norfolk,240
+Non COVID-19,Females,North Norfolk,195
+Non COVID-19,Females,Norwich,146
+Non COVID-19,Females,South Norfolk,169
+Non COVID-19,Females,Corby,89
+Non COVID-19,Females,Daventry,87
+Non COVID-19,Females,East Northamptonshire,111
+Non COVID-19,Females,Kettering,123
+Non COVID-19,Females,Northampton,231
+Non COVID-19,Females,South Northamptonshire,86
+Non COVID-19,Females,Wellingborough,93
+Non COVID-19,Females,Craven,101
+Non COVID-19,Females,Hambleton,137
+Non COVID-19,Females,Harrogate,263
+Non COVID-19,Females,Richmondshire,63
+Non COVID-19,Females,Ryedale,73
+Non COVID-19,Females,Scarborough,194
+Non COVID-19,Females,Selby,111
+Non COVID-19,Females,Ashfield,147
+Non COVID-19,Females,Bassetlaw,168
+Non COVID-19,Females,Broxtowe,120
+Non COVID-19,Females,Gedling,143
+Non COVID-19,Females,Mansfield,144
+Non COVID-19,Females,Newark and Sherwood,150
+Non COVID-19,Females,Rushcliffe,128
+Non COVID-19,Females,Cherwell,183
+Non COVID-19,Females,Oxford,146
+Non COVID-19,Females,South Oxfordshire,144
+Non COVID-19,Females,Vale of White Horse,137
+Non COVID-19,Females,West Oxfordshire,140
+Non COVID-19,Females,Mendip,144
+Non COVID-19,Females,Sedgemoor,189
+Non COVID-19,Females,South Somerset,219
+Non COVID-19,Females,Cannock Chase,110
+Non COVID-19,Females,East Staffordshire,153
+Non COVID-19,Females,Lichfield,157
+Non COVID-19,Females,Newcastle-under-Lyme,181
+Non COVID-19,Females,South Staffordshire,173
+Non COVID-19,Females,Stafford,159
+Non COVID-19,Females,Staffordshire Moorlands,146
+Non COVID-19,Females,Tamworth,82
+Non COVID-19,Females,Babergh,125
+Non COVID-19,Females,Ipswich,152
+Non COVID-19,Females,Mid Suffolk,136
+Non COVID-19,Females,Elmbridge,158
+Non COVID-19,Females,Epsom and Ewell,78
+Non COVID-19,Females,Guildford,131
+Non COVID-19,Females,Mole Valley,136
+Non COVID-19,Females,Reigate and Banstead,206
+Non COVID-19,Females,Runnymede,102
+Non COVID-19,Females,Spelthorne,120
+Non COVID-19,Females,Surrey Heath,130
+Non COVID-19,Females,Tandridge,129
+Non COVID-19,Females,Waverley,163
+Non COVID-19,Females,Woking,120
+Non COVID-19,Females,North Warwickshire,102
+Non COVID-19,Females,Nuneaton and Bedworth,178
+Non COVID-19,Females,Rugby,103
+Non COVID-19,Females,Stratford-on-Avon,176
+Non COVID-19,Females,Warwick,163
+Non COVID-19,Females,Adur,100
+Non COVID-19,Females,Arun,284
+Non COVID-19,Females,Chichester,206
+Non COVID-19,Females,Crawley,94
+Non COVID-19,Females,Horsham,193
+Non COVID-19,Females,Mid Sussex,200
+Non COVID-19,Females,Worthing,197
+Non COVID-19,Females,Bromsgrove,140
+Non COVID-19,Females,Malvern Hills,141
+Non COVID-19,Females,Redditch,97
+Non COVID-19,Females,Worcester,136
+Non COVID-19,Females,Wychavon,172
+Non COVID-19,Females,Wyre Forest,148
+Non COVID-19,Females,St Albans,171
+Non COVID-19,Females,Welwyn Hatfield,136
+Non COVID-19,Females,East Hertfordshire,165
+Non COVID-19,Females,Stevenage,112
+Non COVID-19,Females,East Suffolk,407
+Non COVID-19,Females,West Suffolk,198
+Non COVID-19,Females,Somerset West and Taunton,257
+Non COVID-19,Females,Bolton,347
+Non COVID-19,Females,Bury,235
+Non COVID-19,Females,Manchester,380
+Non COVID-19,Females,Oldham,283
+Non COVID-19,Females,Rochdale,254
+Non COVID-19,Females,Salford,272
+Non COVID-19,Females,Stockport,340
+Non COVID-19,Females,Tameside,309
+Non COVID-19,Females,Trafford,215
+Non COVID-19,Females,Wigan,362
+Non COVID-19,Females,Knowsley,218
+Non COVID-19,Females,Liverpool,598
+Non COVID-19,Females,St. Helens,251
+Non COVID-19,Females,Sefton,488
+Non COVID-19,Females,Wirral,510
+Non COVID-19,Females,Barnsley,343
+Non COVID-19,Females,Doncaster,407
+Non COVID-19,Females,Rotherham,382
+Non COVID-19,Females,Sheffield,641
+Non COVID-19,Females,Newcastle upon Tyne,316
+Non COVID-19,Females,North Tyneside,267
+Non COVID-19,Females,South Tyneside,238
+Non COVID-19,Females,Sunderland,382
+Non COVID-19,Females,Birmingham,"1,145"
+Non COVID-19,Females,Coventry,330
+Non COVID-19,Females,Dudley,429
+Non COVID-19,Females,Sandwell,378
+Non COVID-19,Females,Solihull,343
+Non COVID-19,Females,Walsall,346
+Non COVID-19,Females,Wolverhampton,362
+Non COVID-19,Females,Bradford,592
+Non COVID-19,Females,Calderdale,281
+Non COVID-19,Females,Kirklees,531
+Non COVID-19,Females,Leeds,848
+Non COVID-19,Females,Wakefield,435
+Non COVID-19,Females,Gateshead,268
+Non COVID-19,Females,City of London,4
+Non COVID-19,Females,Barking and Dagenham,168
+Non COVID-19,Females,Barnet,352
+Non COVID-19,Females,Bexley,302
+Non COVID-19,Females,Brent,220
+Non COVID-19,Females,Bromley,376
+Non COVID-19,Females,Camden,116
+Non COVID-19,Females,Croydon,331
+Non COVID-19,Females,Ealing,252
+Non COVID-19,Females,Enfield,333
+Non COVID-19,Females,Greenwich,251
+Non COVID-19,Females,Hackney,133
+Non COVID-19,Females,Hammersmith and Fulham,114
+Non COVID-19,Females,Haringey,148
+Non COVID-19,Females,Harrow,204
+Non COVID-19,Females,Havering,359
+Non COVID-19,Females,Hillingdon,268
+Non COVID-19,Females,Hounslow,188
+Non COVID-19,Females,Islington,145
+Non COVID-19,Females,Kensington and Chelsea,80
+Non COVID-19,Females,Kingston upon Thames,173
+Non COVID-19,Females,Lambeth,168
+Non COVID-19,Females,Lewisham,189
+Non COVID-19,Females,Merton,187
+Non COVID-19,Females,Newham,149
+Non COVID-19,Females,Redbridge,240
+Non COVID-19,Females,Richmond upon Thames,148
+Non COVID-19,Females,Southwark,169
+Non COVID-19,Females,Sutton,201
+Non COVID-19,Females,Tower Hamlets,126
+Non COVID-19,Females,Waltham Forest,190
+Non COVID-19,Females,Wandsworth,197
+Non COVID-19,Females,Westminster,131
+Non COVID-19,Females,Cambridgeshire,680
+Non COVID-19,Females,Cumbria,778
+Non COVID-19,Females,Derbyshire,"1,002"
+Non COVID-19,Females,Devon,"1,043"
+Non COVID-19,Females,East Sussex,798
+Non COVID-19,Females,Essex,"2,020"
+Non COVID-19,Females,Gloucestershire,773
+Non COVID-19,Females,Hampshire,"1,761"
+Non COVID-19,Females,Hertfordshire,"1,448"
+Non COVID-19,Females,Kent,"1,968"
+Non COVID-19,Females,Lancashire,"1,627"
+Non COVID-19,Females,Leicestershire,830
+Non COVID-19,Females,Lincolnshire,"1,073"
+Non COVID-19,Females,Norfolk,"1,250"
+Non COVID-19,Females,Northamptonshire,820
+Non COVID-19,Females,North Yorkshire,942
+Non COVID-19,Females,Nottinghamshire,"1,000"
+Non COVID-19,Females,Oxfordshire,750
+Non COVID-19,Females,Somerset,809
+Non COVID-19,Females,Staffordshire,"1,161"
+Non COVID-19,Females,Suffolk,"1,018"
+Non COVID-19,Females,Surrey,"1,473"
+Non COVID-19,Females,Warwickshire,722
+Non COVID-19,Females,West Sussex,"1,274"
+Non COVID-19,Females,Worcestershire,834
+Non COVID-19,Females,Greater Manchester,"2,997"
+Non COVID-19,Females,Merseyside,"2,065"
+Non COVID-19,Females,South Yorkshire,"1,773"
+Non COVID-19,Females,West Midlands,"3,333"
+Non COVID-19,Females,West Yorkshire,"2,687"
+Non COVID-19,Females,Tyne and Wear,"1,471"
+Non COVID-19,Females,North East,"3,546"
+Non COVID-19,Females,North West,"9,303"
+Non COVID-19,Females,Yorkshire and The Humber,"6,879"
+Non COVID-19,Females,East Midlands,"5,647"
+Non COVID-19,Females,West Midlands,"7,337"
+Non COVID-19,Females,East of England,"7,744"
+Non COVID-19,Females,London,"6,612"
+Non COVID-19,Females,South East,"10,837"
+Non COVID-19,Females,South West,"7,277"
+Non COVID-19,Females,England,"65,182"
+Non COVID-19,Females,Usual residence outside England and Wales,58
+Non COVID-19,Females,"ENGLAND, WALES AND ELSEWHERE","69,323"
+Non COVID-19,Females,Isle of Anglesey,81
+Non COVID-19,Females,Gwynedd,139
+Non COVID-19,Females,Conwy,153
+Non COVID-19,Females,Denbighshire,149
+Non COVID-19,Females,Flintshire,195
+Non COVID-19,Females,Wrexham,179
+Non COVID-19,Females,Ceredigion,97
+Non COVID-19,Females,Pembrokeshire,194
+Non COVID-19,Females,Carmarthenshire,277
+Non COVID-19,Females,Swansea,309
+Non COVID-19,Females,Neath Port Talbot,209
+Non COVID-19,Females,Bridgend,207
+Non COVID-19,Females,Vale of Glamorgan,155
+Non COVID-19,Females,Cardiff,347
+Non COVID-19,Females,Rhondda Cynon Taf,338
+Non COVID-19,Females,Caerphilly,219
+Non COVID-19,Females,Blaenau Gwent,113
+Non COVID-19,Females,Torfaen,129
+Non COVID-19,Females,Monmouthshire,112
+Non COVID-19,Females,Newport,186
+Non COVID-19,Females,Powys,207
+Non COVID-19,Females,Merthyr Tydfil,88
+Non COVID-19,Females,Betsi Cadwaladr University Health Board,896
+Non COVID-19,Females,Powys Teaching Health Board,207
+Non COVID-19,Females,Hywel Dda University Health Board,568
+Non COVID-19,Females,Aneurin Bevan University Health Board,759
+Non COVID-19,Females,Cardiff and Vale University Health Board,502
+Non COVID-19,Females,Cwm Taf Morgannwg University Health Board,633
+Non COVID-19,Females,Swansea Bay University Health Board,518
+Non COVID-19,Females,Wales,"4,083"
